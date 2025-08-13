@@ -1,5 +1,5 @@
 # Trie-Levenshtein-Distance-Algorithm-for-Searching-Autocomplete-using-PHP-for-Book-Catalogue
-Project Ini Merupakan Tugas Akhir
+Project Ini Merupakan Tugas Akhir, menggabungkan algoritma trie dan levenshtein distance. yang mana trie berfungsi untuk mempercepat proses pencarian dan levenshtein distance untuk menghitung jarak operasi edit (mengatasi typo)
 
 Setiap folder memiliki fungsinya masing-masing:
 1. adminpanel = untuk halaman admin.
