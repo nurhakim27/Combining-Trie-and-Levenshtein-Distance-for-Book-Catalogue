@@ -1,0 +1,7 @@
+ErrorDocument 404 /UBPRESS/404.php
+
+
+# Blok akses ke index.php dengan trailing slash
+RewriteEngine On
+RewriteCond %{THE_REQUEST} ^[A-Z]{3,}\ /index\.php/ [NC]
+RewriteRule ^index\.php/ - [R=404,L]

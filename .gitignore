@@ -1,0 +1,30 @@
+# Dependency / build
+/vendor/
+/node_modules/
+composer.phar
+
+# Cache & logs
+/storage/
+*.log
+tmp/
+cache/
+
+# Uploads & dump
+/public/uploads/
+/uploads/
+*.sql
+*.zip
+*.rar
+*.7z
+*.mp4
+*.mov
+
+# Editor/OS
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+
+# Env
+.env
+.env.*

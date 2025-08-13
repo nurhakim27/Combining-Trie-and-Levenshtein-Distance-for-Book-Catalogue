@@ -1,0 +1,781 @@
+Judul yang Diuji,Waktu Tes 1 (md),Waktu Tes 2 (md),Waktu Tes 3 (md),Waktu Tes 4 (md),Waktu Tes 5 (md),Waktu Tes 6 (md),Waktu Tes 7 (md),Waktu Tes 8 (md),Waktu Tes 9 (md),Waktu Tes 10 (md),Waktu Rata-rata (md)
+Goat Brothers,0.0219,0.0038,0.0021,0.0029,0.0021,0.0019,0.001,0.001,0.0019,0.0021,0.0041
+The Missing Person,0.0169,0.0091,0.0069,0.0072,0.0069,0.006,0.005,0.0072,0.0048,0.006,0.0076
+Don't Eat Your Heart Out Cookbook,0.0131,0.006,0.005,0.005,0.0219,0.031,0.005,0.0038,0.0041,0.0041,0.0099
+When Your Corporate Umbrella Begins to Leak: A Handbook for White Collar Re-Employment,0.0029,0.001,0.001,0.001,0,0.001,0.001,0.001,0.001,0.001,0.0011
+Amy Spangler's Breastfeeding : A Parent's Guide,0.046,0.02,0.02,0.0198,0.0181,0.016,0.0169,0.0131,0.0131,0.0179,0.0201
+The Foundation of Leadership: Enduring Principles to Govern Our Lives,0.0219,0.0079,0.0062,0.006,0.006,0.006,0.005,0.005,0.006,0.006,0.0076
+Chicken Soup for the Soul: 101 Stories to Open the Heart and Rekindle the Spirit,0.0219,0.0131,0.0119,0.011,0.0112,0.047,0.025,0.016,0.016,0.0169,0.019
+Journey Through Heartsongs,0.01,0.0038,0.0029,0.0031,0.0031,0.0041,0.0038,0.0041,0.0041,0.0041,0.0043
+In Search of Melancholy Baby,0.01,0.0041,0.0041,0.0038,0.0038,0.005,0.005,0.0041,0.0041,0.0041,0.0048
+Christmas Cookies,0.0041,0.0031,0.0019,0.0021,0.0019,0.0019,0.0021,0.0019,0.0021,0.0019,0.0023
+The Dieter's Guide to Weight Loss During Sex,0.0198,0.01,0.0088,0.0091,0.0091,0.0079,0.0079,0.0091,0.005,0.005,0.0092
+Germs : Biological Weapons and America's Secret War,0.011,0.0072,0.006,0.006,0.006,0.006,0.006,0.0062,0.0048,0.005,0.0064
+The Genesis of Ethics,0.0038,0.0021,0.0019,0.0021,0.0019,0.001,0.0021,0.0019,0.001,0.001,0.0019
+The Good Book: Reading the Bible with Mind and Heart,0.01,0.0072,0.005,0.005,0.006,0.005,0.005,0.006,0.005,0.005,0.0059
+All over but the Shoutin',0.0012,0.001,0.001,0.001,0,0.001,0,0,0.001,0,0.0006
+Oilers and Sweepers and Other Stories,0.0112,0.0069,0.006,0.0062,0.0069,0.006,0.006,0.006,0.0138,0.0072,0.0076
+Prince William,0.0029,0.0021,0.0019,0.0019,0.0012,0.001,0.0019,0.0021,0.001,0.001,0.0017
+The Emperor's New Mind,0.0062,0.0029,0.0031,0.0029,0.0031,0.0031,0.0029,0.0031,0.0029,0.0031,0.0033
+Touching Fire: Erotic Writings by Women,0.0069,0.005,0.0041,0.0041,0.0041,0.0038,0.0041,0.0031,0.0031,0.0029,0.0041
+Hill Rat: Blowing the Lid Off Congress,0.005,0.0021,0.0019,0.0021,0.0019,0.0019,0.0021,0.0019,0.0021,0.0019,0.0023
+The Great ABC Treasure Hunt: A Hidden Picture Alphabet Book (Time-Life Early Learning Program),0.0031,0.001,0.0019,0.001,0.001,0.001,0.001,0.001,0.001,0.001,0.0013
+Personality of the Cat,0.0088,0.0062,0.005,0.006,0.005,0.005,0.006,0.005,0.005,0.006,0.0058
+Murdering Mr. Monti: A Merry Little Tale of Sex and Violence,0.0038,0.0021,0.0019,0.001,0.0021,0.0019,0.0021,0.001,0.0019,0.0021,0.002
+In Re Alger Hiss:  Petition for a Writ of Error Coram Nobis,0.0041,0.0021,0.0019,0.0019,0.0021,0.0019,0.0021,0.0019,0.001,0.0012,0.002
+Black Holes and Baby Universes and Other Essays,0.006,0.0031,0.0038,0.0031,0.0029,0.0031,0.0031,0.0029,0.0031,0.0031,0.0034
+Relativity: The Special and the General Theory,0.0038,0.0021,0.001,0.001,0.001,0.001,0.0012,0.001,0.001,0.0019,0.0015
+Betrayal : How the Clinton Administration Undermined American Security,0.0029,0.0019,0.0019,0.0021,0.0019,0.001,0.001,0.0019,0.0019,0.0021,0.0019
+Shadow Song,0.0041,0.0019,0.0019,0.0012,0.0019,0.0019,0.0012,0.001,0.0019,0.0021,0.0019
+Undercurrents: A Therapist's Reckoning With Her Own Depression,0.0038,0.0021,0.001,0.001,0.0021,0.001,0.0019,0.001,0.001,0.0019,0.0017
+The Road Less Traveled and Beyond: Spiritual Growth in an Age of Anxiety,0.006,0.0021,0.0019,0.0019,0.0031,0.0019,0.0041,0.0031,0.0019,0.0021,0.0028
+The Kiss: A Memoir,0.0029,0.0021,0.0019,0.0021,0.0019,0.0019,0.001,0.001,0.001,0.0021,0.0018
+Codebreakers' Victory: How the Allied Cryptogaphers Won World War II,0.005,0.0031,0.0031,0.0029,0.0031,0.0019,0.0021,0.0029,0.0031,0.0019,0.0029
+"A Manual for Writers of Term Papers, Theses, and Dissertations, Fifth Edition",0.01,0.005,0.005,0.0041,0.0041,0.0041,0.0038,0.005,0.0041,0.0041,0.0049
+"The Price of Loyalty: George W. Bush, the White House, and the Education of Paul O'Neill",0.0019,0.0012,0.001,0.001,0.001,0.0012,0.001,0.001,0.001,0.001,0.0011
+Best New American Voices 2003,0.0041,0.0021,0.0019,0.0019,0.0021,0.001,0.0019,0.0021,0.001,0.0019,0.002
+Escape from the CIA: How the CIA Won and Lost the Most Important KGB Spy Ever to Defect to the U.S.,0.0021,0.001,0.0019,0.001,0.0012,0.001,0.001,0.001,0.0012,0.001,0.0012
+Meditations: On the Monk Who Dwells in Daily Life,0.015,0.011,0.011,0.0112,0.011,0.011,0.011,0.01,0.01,0.011,0.0112
+Links Lore,0.0021,0.001,0.001,0.001,0.0012,0.001,0.001,0.001,0.001,0.001,0.0011
+Jackie by Josie: A Novel,0.0062,0.0038,0.0031,0.0041,0.0029,0.0031,0.0031,0.0029,0.0031,0.0041,0.0036
+Joshua and the City,0.0041,0.0031,0.0019,0.0021,0.0019,0.0019,0.0021,0.0019,0.001,0.001,0.0021
+The Book of Courtly Love: The Passionate Code of the Troubadours,0.005,0.0029,0.0021,0.0019,0.0021,0.0019,0.0031,0.0019,0.0021,0.0019,0.0025
+How Good Do We Have to Be? A New Understanding of Guilt and Forgiveness,0.006,0.0041,0.0019,0.0031,0.0029,0.0031,0.0019,0.0038,0.0021,0.0019,0.0031
+"Eat More, Weigh Less: Dr. Dean Ornish's Life Choice Program for Losing Weight Safely While Eating Abundantly",0.0041,0.0019,0.0019,0.0019,0.0021,0.0019,0.0021,0.0019,0.0021,0.0019,0.0022
+Majorca: Culture and Life,0.0129,0.011,0.0112,0.0098,0.0112,0.01,0.011,0.01,0.0129,0.01,0.011
+Written by Herself: Autobiographies of American Women: An Anthology,0.005,0.0031,0.0019,0.0031,0.0019,0.0019,0.0019,0.0019,0.0031,0.0019,0.0026
+The Universe of Galaxies,0.0031,0.0029,0.0021,0.0019,0.0021,0.001,0.0021,0.0019,0.0019,0.0021,0.0021
+Ice Bound: A Doctor's Incredible Battle For Survival at the South Pole,0.0029,0.0019,0.0021,0.0019,0.001,0.0021,0.001,0.001,0.0021,0.001,0.0017
+Healing Benefits of Garlic,0.0031,0.0019,0.001,0.0012,0.0019,0.001,0.0021,0.001,0.001,0.0019,0.0016
+Me and Ted Against the World : The Unauthorized Story of the Founding of CNN,0.006,0.0031,0.0019,0.0031,0.0019,0.0021,0.0019,0.0021,0.0029,0.0021,0.0027
+Magnet Therapy: The Pain Cure Alternative,0.0038,0.0021,0.001,0.0019,0.0021,0.0019,0.001,0.0021,0.0019,0.001,0.0019
+Controlling Cholesterol: Dr. Kenneth H. Cooper's Preventative Medicine Program,0.006,0.0041,0.0031,0.0029,0.0031,0.0031,0.0029,0.0031,0.0019,0.0021,0.0032
+George Meany And His Times: A Biography,0.006,0.0041,0.0038,0.0031,0.0031,0.0038,0.0031,0.0031,0.0029,0.0031,0.0036
+American Dreams: Lost & Found,0.006,0.0041,0.0038,0.0031,0.0031,0.0029,0.0041,0.0031,0.0029,0.0041,0.0037
+Sharing the Pie : A Citizen's Guide to Wealth and Power,0.0079,0.0072,0.005,0.005,0.005,0.0041,0.005,0.005,0.005,0.005,0.0054
+"Love, Love, and Love",0.0072,0.0041,0.0038,0.0041,0.0041,0.0031,0.0029,0.0029,0.0041,0.0041,0.004
+Conflicting Accounts: The Creation and Crash of the Saatchi and Saatchi Advertising Empire,0.005,0.0019,0.0021,0.0019,0.0019,0.0021,0.001,0.001,0.0021,0.0019,0.0021
+What Went Wrong at Enron: Everyone's Guide to the Largest Bankruptcy in U.S. History,0.0129,0.0072,0.0069,0.006,0.0072,0.006,0.006,0.006,0.006,0.006,0.007
+"The Addictive Organization: Why We Overwork, Cover Up, Pick Up the Pieces, Please the Boss, and Perpetuate S",0.2692,0.267,0.2661,0.2599,0.262,0.2749,0.2511,0.2151,0.1872,0.212,0.2465
+From the Silent Earth: A Report on the Greek Bronze Age,0.015,0.0091,0.0069,0.0069,0.0072,0.0069,0.0072,0.0069,0.0072,0.0079,0.0081
+Panic Disorder and Its Treatment (Medical Psychiatry Series),0.0031,0.0019,0.001,0.0021,0.0019,0.0021,0.0019,0.001,0.0019,0.0021,0.0019
+Henry VIII (English Monarchs Series),0.0021,0.001,0.001,0.001,0.001,0.001,0.0019,0.0012,0.001,0.001,0.0012
+The Moral Intelligence of Children,0.0131,0.0169,0.0072,0.0079,0.0072,0.0079,0.0072,0.0088,0.0081,0.0069,0.0091
+"Concordance to the New English Bible, New Testament,",0.0031,0.0019,0.0019,0.0012,0.0019,0.0019,0.0021,0.001,0.0019,0.0012,0.0018
+Life at the Edge: Readings from Scientific American Magazine,0.0069,0.0031,0.0029,0.0031,0.0029,0.0021,0.0019,0.0021,0.0019,0.0021,0.0029
+Cook Healthy: Cook Quick,0.006,0.0019,0.0021,0.0019,0.0021,0.0019,0.0019,0.001,0.001,0.0019,0.0022
+Images Of War: The Artist's Vision of World War II,0.0069,0.0038,0.0038,0.005,0.0041,0.005,0.005,0.005,0.005,0.005,0.0049
+Becoming Soul Mates: Cultivating Spiritual Intimacy in the Early Years of Marriage,0.0069,0.005,0.0041,0.0041,0.0041,0.0041,0.0029,0.0041,0.0041,0.0029,0.0042
+Care of the Soul : A Guide for Cultivating Depth and Sacredness in Everyday Life,0.0219,0.0179,0.0172,0.016,0.0179,0.0291,0.0272,0.02,0.0188,0.0179,0.0204
+Victims of Progress,0.006,0.0031,0.0019,0.0021,0.0019,0.0021,0.0019,0.0031,0.0019,0.0031,0.0027
+Inside the Tornado: Marketing Strategies from Silicon Valley's Cutting Edge,0.0122,0.0041,0.0029,0.0031,0.0019,0.0021,0.0029,0.0031,0.0029,0.0031,0.0038
+Sunset at Rosalie: A Novel,0.0091,0.0191,0.0069,0.0169,0.0041,0.0041,0.0029,0.0041,0.0029,0.0041,0.0074
+"The Girlfriends' Guide to Surviving the First Year of Motherhood, Packaging May Vary",0.006,0.0029,0.0031,0.0041,0.0019,0.0019,0.0021,0.0019,0.0021,0.0019,0.0028
+"Sherlock Holmes and the Red Demon by John H. Watson, M.D.",0.0021,0.001,0.001,0.001,0.001,0.0012,0.001,0.001,0.001,0.0021,0.0012
+"New Lands, New Men",0.0091,0.005,0.0041,0.005,0.0041,0.0041,0.006,0.005,0.0041,0.0031,0.005
+Reinventing Government: How the Entrepreneurial Spirit is Transforming the Public Sector (Plume),0.001,0.0012,0.001,0.001,0.001,0.001,0,0,0.001,0.001,0.0008
+Proverbs For The People,0.01,0.005,0.005,0.006,0.0072,0.0608,0.006,0.005,0.0041,0.0041,0.0113
+Great American Countryside,0.0069,0.0031,0.0019,0.0021,0.0019,0.001,0.0012,0.0019,0.0019,0.0021,0.0024
+Rob Whitlock: A Pioneer Boy in Old Ohio,0.005,0.0019,0.0021,0.0019,0.001,0.0012,0.0019,0.006,0.001,0.001,0.0023
+British Hospitals (Britain in Pictures),0.0019,0.0021,0.001,0.001,0.001,0.001,0.0012,0,0.001,0.001,0.0011
+An essay on morals,0.005,0.0021,0.0019,0.0021,0.001,0.001,0.0019,0.0021,0.0019,0.0021,0.0021
+"Kid, You Sing My Songs of Love, and Loss, and Hope",0.005,0.0029,0.0021,0.0029,0.0021,0.0029,0.0021,0.0019,0.0021,0.0019,0.0026
+Re-Inventing the Corporation: Transforming Your Job and Your Company for the New Information Society,0.0072,0.0019,0.0021,0.0019,0.0021,0.0019,0.0031,0.0019,0.0019,0.0031,0.0027
+A Sister Is Forever: A Blue Mountain Arts Collection for One of the Most Beautiful People You'll Ever Know,0.0091,0.005,0.0038,0.0041,0.0041,0.0041,0.0038,0.0041,0.0041,0.0041,0.0046
+The Practical Stylist,0.0029,0.0021,0.001,0.0019,0.001,0.0021,0.001,0.0019,0.0012,0.0019,0.0017
+The Periodic Kingdom: A Journey Into The Land Of The Chemical Elements (Science Masters Series),0.0019,0.001,0.0012,0.001,0.001,0.001,0.0012,0.0019,0.001,0.001,0.0012
+Titanic,0.0012,0.001,0.001,0.001,0.001,0,0,0.001,0.001,0.001,0.0008
+A Woman of Egypt,0.0041,0.0019,0.0012,0.0019,0.0019,0.0021,0.0019,0.0021,0.0019,0.0019,0.0021
+Civilization III: Instruction Manual,0.006,0.0031,0.0019,0.0021,0.0019,0.0031,0.0019,0.0031,0.0019,0.0021,0.0027
+"Alcatraz '46;: The anatomy of a classic prison tragedy,",0.0019,0.0019,0.001,0.0012,0.001,0.001,0.001,0.001,0.0012,0.001,0.0012
+Elvis in the Morning,0.0029,0.0021,0.0019,0.001,0.0021,0.001,0.001,0.0021,0.001,0.001,0.0016
+"Fat Free, Flavor Full: Dr. Gabe Mirkin's Guide to Losing Weight and Living Longer",0.0041,0.0019,0.0012,0.0019,0.0019,0.0021,0.001,0.001,0.0021,0.0019,0.0019
+White Gold Wielder - Book Three of The Second Chronicles of Thomas Covenant,0.005,0.0029,0.0021,0.0019,0.0021,0.0019,0.0019,0.0021,0.001,0.0012,0.0022
+From Image to Likeness: A Jungian Path in the Gospel Journey,0.0079,0.0041,0.0041,0.0038,0.0041,0.0041,0.0031,0.0038,0.0041,0.0041,0.0043
+ON THE WING: The Life of Birds: From Feathers to Flight,0.005,0.0029,0.0021,0.0029,0.0021,0.0019,0.0031,0.0019,0.0019,0.0021,0.0026
+Bringing Down the House: The Inside Story of Six M.I.T. Students Who Took Vegas for Millions,0.005,0.0029,0.0021,0.0019,0.0031,0.0019,0.0031,0.0019,0.0021,0.0029,0.0027
+Future Space: Beyond Earth,0.005,0.0031,0.0019,0.0019,0.0021,0.0019,0.0021,0.0019,0.0021,0.0019,0.0024
+"The young Jefferson, 1743-1789,",0.0019,0.001,0.001,0.0012,0.001,0,0,0.001,0.001,0.0012,0.0009
+"Mayo Clinic On Hearing: Strategies for Managing Hearing Loss, Dizziness and Other Ear Problems (""MAYO CLINIC ON"" SERIES)",0.0021,0.0019,0.001,0.0021,0.001,0.001,0.0012,0.001,0.0019,0.001,0.0014
+"Trust Me, Mom-Everyone Else Is Going!: The New Rules for Mothering Adolescent Girls",0.005,0.0021,0.0019,0.0019,0.0021,0.0019,0.0021,0.0019,0.0019,0.0012,0.0022
+I Hate School: How to Hang in and When to Drop Out,0.016,0.005,0.005,0.0041,0.0038,0.0041,0.0041,0.0041,0.0041,0.0038,0.0054
+The Quotable Ronald Reagan,0.0041,0.0031,0.001,0.0021,0.0019,0.001,0.0012,0.0019,0.0019,0.0021,0.002
+"Rooster crows for day,",0.0019,0,0,0.001,0.0012,0.001,0,0,0.001,0.001,0.0007
+Leadership Is an Art,0.015,0.0439,0.0181,0.0119,0.011,0.0131,0.0119,0.0122,0.0119,0.0119,0.0161
+What's Going On?: Personal Essays,0.0079,0.005,0.0031,0.0069,0.0041,0.0031,0.0038,0.0031,0.0031,0.0041,0.0044
+Dark Fields of the Republic: Poems 1991-1995,0.0031,0.001,0.001,0.0021,0.001,0.001,0.0019,0.0012,0.001,0.001,0.0014
+Creating an Inclusive School,0.0072,0.005,0.0038,0.0031,0.0021,0.0029,0.0031,0.0041,0.0029,0.0041,0.0038
+Edit Yourself : A manual for everyone who works with words,0.0081,0.0038,0.0031,0.0031,0.0029,0.0031,0.0041,0.005,0.0029,0.0031,0.0039
+Standing for Something: 10 Neglected Virtues That Will Heal Our Hearts and Homes,0.006,0.0029,0.0021,0.0019,0.0021,0.0029,0.0021,0.0019,0.0021,0.0019,0.0026
+North Carolina Ghosts and Legends,0.0081,0.0029,0.0031,0.0031,0.0029,0.0031,0.0029,0.0021,0.0019,0.0031,0.0033
+Balkan Odyssey a personal account of the international peace efforts following the breakup of the former Yugoslavia,0.015,0.0088,0.006,0.0062,0.005,0.006,0.006,0.005,0.006,0.0081,0.0072
+Straight Talk about Death for Teenagers: How to Cope with Losing Someone You Love,0.015,0.0091,0.0081,0.0069,0.0091,0.01,0.01,0.0069,0.0072,0.006,0.0088
+Understanding Thomas Jefferson,0.0038,0.0031,0.0019,0.0019,0.0029,0.0031,0.0031,0.0029,0.0019,0.0031,0.0028
+"Hey Mom! I'm Hungry!: Great-Tasting, Low-Fat, Easy Recipes to Feed Your Family",0.011,0.0072,0.005,0.005,0.005,0.0041,0.0029,0.0031,0.0031,0.0041,0.0051
+"Changes in the Land: Indians, Colonists and the Ecology of New England",0.006,0.0031,0.0029,0.0021,0.0019,0.0031,0.0029,0.0021,0.0019,0.0031,0.0029
+An East Wind Coming,0.005,0.0019,0.0021,0.0019,0.0021,0.0019,0.0019,0.001,0.0019,0.0019,0.0022
+Going the Other Way: Lessons from a Life In and Out of Major League Baseball,0.0069,0.0031,0.0029,0.0031,0.0031,0.0029,0.0031,0.0029,0.0031,0.0029,0.0034
+Consider Your Options: Get the Most from Your Equity Compensation,0.006,0.0041,0.0041,0.0038,0.0041,0.0031,0.0019,0.0031,0.0029,0.0021,0.0035
+Molecular Cell Biology,0.0041,0.0031,0.0029,0.0021,0.0029,0.0031,0.0019,0.0021,0.0019,0.001,0.0025
+Majendie's Cat,0.0098,0.0072,0.0069,0.006,0.0062,0.0069,0.006,0.006,0.0062,0.0079,0.0069
+First Things First,0.006,0.0029,0.0031,0.005,0.0019,0.0021,0.0019,0.0021,0.001,0.0021,0.0028
+Best Friends: The True Story of the World's Most Beloved Animal Sanctuary,0.0041,0.0021,0.0019,0.0019,0.0031,0.0019,0.0021,0.0019,0.0021,0.0019,0.0023
+"Prudens futuri: The US Army War College, 1901-1967",0.0019,0.0012,0.001,0.001,0.001,0.001,0.0012,0.001,0.001,0.0041,0.0014
+Joshua: A Parable for Today,0.005,0.0029,0.0021,0.0029,0.0021,0.0029,0.0021,0.0029,0.0019,0.0031,0.0028
+Things Not Seen and Other Stories,0.01,0.0079,0.0072,0.0069,0.006,0.0072,0.0069,0.006,0.006,0.006,0.007
+Putting the One Minute Manager to Work: How to Turn the 3 Secrets into Skills,0.0069,0.0031,0.0029,0.0019,0.0031,0.0029,0.0031,0.0019,0.0021,0.0029,0.0031
+The Spiritual Life of Children,0.0091,0.006,0.005,0.005,0.005,0.005,0.005,0.005,0.005,0.005,0.0055
+Constancia and Other Stories for Virgins,0.0041,0.0019,0.0019,0.0021,0.0019,0.0012,0.001,0.001,0.0019,0.0019,0.0019
+May I Have This Dance?,0.0031,0.001,0.001,0.001,0,0,0.0012,0.001,0.001,0.001,0.001
+"Meditations from Conversations with God: An Uncommon Dialogue, Book 1 (Conversations with God Series)",0.0019,0.0012,0.0019,0.001,0.001,0.0012,0.0019,0.001,0.001,0.0012,0.0013
+Washington bowed,0.0031,0.001,0.001,0.001,0.001,0.001,0.001,0.0012,0.001,0.0019,0.0013
+Chagall,0.0021,0.001,0.001,0.001,0.001,0,0.0012,0.001,0.001,0.001,0.001
+Ride a Pale Horse,0.005,0.0019,0.0031,0.0019,0.0021,0.0029,0.0021,0.0019,0.0021,0.0019,0.0025
+Listening to Prozac: A Psychiatrist Explores Antidepressant Drugs and the Remaking of the Self,0.006,0.0031,0.0029,0.0031,0.0031,0.0029,0.0021,0.0029,0.0031,0.0029,0.0032
+"The Big Garage on Clear Shot: Growing Up, Growing Old, and Going Fishing at the End of the Road",0.0081,0.0041,0.0038,0.0029,0.0031,0.0031,0.0041,0.0038,0.0031,0.0041,0.004
+Life Stories,0.0079,0.006,0.006,0.0069,0.0091,0.006,0.006,0.006,0.006,0.006,0.0066
+Houghton Mifflin Invitations to Literature: Student Anthology Level 1.3 Share 1997 (Invitations to Lit 1997),0.0019,0.0012,0.001,0.001,0.001,0.0012,0.001,0.001,0.001,0.0012,0.0012
+Grow Greener: Ten Steps to a Richer Life,0.0141,0.0119,0.0112,0.0098,0.01,0.011,0.01,0.011,0.01,0.011,0.011
+"Frames of Reference: Looking at American Art, 1900-1950: Works from the Whitney Museum of American Art",0.0119,0.01,0.0122,0.0088,0.0091,0.0091,0.0091,0.0088,0.0091,0.0091,0.0097
+Remembering Main Street: An American Album,0.0041,0.0029,0.0021,0.001,0.001,0.0021,0.0019,0.0021,0.001,0.0019,0.002
+Spicy,0.001,0,0,0.001,0.001,0.001,0.001,0,0.0012,0.001,0.0007
+Pope John Paul II,0.005,0.0029,0.0031,0.0019,0.0019,0.0031,0.0029,0.0031,0.0029,0.0031,0.003
+"The Virgin Homeowner: The Essential Guide to Owning, Maintaining, and Surviving Your Home",0.0091,0.006,0.005,0.006,0.005,0.006,0.005,0.006,0.005,0.005,0.0058
+"Fight Fat After Forty: The Revolutionary Three-Pronged Approach That Will Break Your Stress-Fat Cycle and Make You Healthy, Fit, and Trim for Life",0.0141,0.0131,0.011,0.011,0.011,0.011,0.011,0.0112,0.011,0.011,0.0115
+Leadership Presence,0.0029,0.0021,0.001,0.0019,0.0012,0.001,0.001,0.001,0.001,0.001,0.0014
+The Golden Christmas Tree,0.0038,0.0021,0.001,0.0019,0.0012,0.001,0.001,0.001,0.0021,0.001,0.0016
+The Age of Uncertainty,0.0041,0.0019,0.0019,0.001,0.001,0.0019,0.0021,0.001,0.001,0.0021,0.0018
+Global Literacies: Lessons on Business Leadership and National Cultures,0.0029,0.0031,0.001,0.001,0.0021,0.0019,0.001,0.001,0.0019,0.0019,0.0018
+Results: The Key to Continuous School Improvement,0.0031,0.0019,0.0021,0.001,0.0019,0.0021,0.001,0.001,0.001,0.001,0.0016
+Trailside Guide: Fly Fishing,0.005,0.0029,0.0021,0.0029,0.0021,0.0029,0.0021,0.0019,0.0031,0.0019,0.0027
+I Wish I Had a Red Dress,0.0041,0.0029,0.0021,0.0019,0.0019,0.0021,0.0019,0.0021,0.001,0.001,0.0021
+The economics of macro issues,0.0041,0.0031,0.0019,0.0021,0.0019,0.0019,0.0021,0.0019,0.0019,0.0021,0.0023
+Family Guide to Natural Medicine,0.005,0.0019,0.0021,0.0019,0.0021,0.0029,0.0021,0.0019,0.0019,0.0021,0.0024
+Killer Diller,0.0019,0.001,0.0012,0.001,0.001,0.001,0.0012,0.001,0.001,0.001,0.0011
+Herbal Medicine,0.0021,0.0019,0.0019,0.0021,0.0019,0.001,0.0021,0.0019,0.0019,0.0021,0.0019
+The Visitation,0.0019,0.0019,0.0012,0.0019,0.001,0.001,0.0021,0.001,0.001,0.0021,0.0015
+Big Kitchen Instruction Book,0.0191,0.0141,0.0129,0.0131,0.0138,0.0122,0.0119,0.0119,0.0122,0.0119,0.0133
+"One World, One Heart",0.0081,0.006,0.005,0.0041,0.0041,0.005,0.0038,0.005,0.005,0.0041,0.005
+Reengineering the Corporation,0.0031,0.0019,0.0021,0.0019,0.001,0.0012,0.0019,0.0019,0.0021,0.0019,0.0019
+What My Parents Did Right,0.005,0.0019,0.0021,0.0019,0.0021,0.0019,0.0019,0.0021,0.0019,0.0021,0.0023
+The Man's Health Sourcebook,0.0031,0.0019,0.0021,0.0019,0.0019,0.0012,0.0019,0.0019,0.0012,0.001,0.0018
+High Tech Illustration,0.0031,0.0019,0.0019,0.0021,0.001,0.0019,0.0021,0.001,0.0019,0.0021,0.0019
+Chinese Roundabout: Essays in History and Culture,0.0041,0.0031,0.0031,0.0019,0.0021,0.0029,0.0021,0.0029,0.0019,0.0031,0.0027
+"Behind closed doors;: The secret history of the cold war,",0.0019,0.0012,0.001,0.001,0.001,0.001,0.0012,0.001,0.001,0.001,0.0011
+"Production & Operations Management : Quality, Performance, and Value",0.005,0.0031,0.0019,0.0019,0.0021,0.0019,0.0021,0.0019,0.0021,0.0019,0.0024
+Shackleton's Boat Journey,0.006,0.0041,0.0029,0.0031,0.0031,0.0029,0.0031,0.0029,0.0031,0.0031,0.0034
+An Atlas of the Difficult World: Poems 1988-1991,0.0021,0.001,0.001,0.001,0,0,0.001,0.001,0.0012,0.001,0.0009
+Are You Considering Psychoanalysis?,0.0031,0.001,0.001,0.0019,0.0021,0.001,0.0019,0.0021,0.0019,0.001,0.0017
+"The Splendid Century: French Art: 1600-1715 - exhibition at The National Gallery of Art,  The Toledo Museum of Art, The Metropolitan Museum of Art, 1960-1961",0.0041,0.0031,0.0029,0.0021,0.0029,0.0021,0.0029,0.0021,0.0029,0.0021,0.0027
+Blue Guide: Oxford and Cambridge (Blue Guides (Only Op)),0.0021,0.001,0.001,0.0021,0.001,0.0012,0.0041,0.001,0.001,0.001,0.0016
+Daughter of Regals & Other Tales,0.011,0.006,0.005,0.005,0.005,0.005,0.005,0.0069,0.005,0.005,0.0059
+Get Thee To a Punnery,0.005,0.0029,0.0031,0.0019,0.0021,0.0019,0.0031,0.0031,0.0029,0.0031,0.0029
+Too Young to Retire: 101 Ways To Start The Rest of Your Life,0.0229,0.0188,0.0181,0.0179,0.0172,0.0169,0.016,0.0181,0.016,0.0169,0.0179
+Zillionaire's Daughter,0.0041,0.0029,0.0021,0.0029,0.0021,0.0019,0.0021,0.0019,0.0031,0.0019,0.0025
+Macintosh programming primer,0.0041,0.0021,0.0029,0.0021,0.0019,0.0031,0.0019,0.0031,0.0019,0.0021,0.0025
+Ireland's Women: Writings Past and Present,0.006,0.0031,0.0029,0.0031,0.0019,0.0029,0.0031,0.0029,0.0031,0.0029,0.0032
+Currier and Ives Four Seasons Cookbook,0.0088,0.0062,0.005,0.006,0.006,0.0091,0.006,0.006,0.006,0.0062,0.0065
+Testimonies: A Novel,0.0069,0.005,0.005,0.005,0.005,0.005,0.005,0.005,0.005,0.005,0.0052
+"Career Guide: Opportunities and Resources for You (The Ebony Success Library, V. 3)",0.0029,0.0021,0.001,0.001,0.0021,0.001,0.0019,0.0021,0.001,0.0019,0.0017
+The downy waterfowl of North America,0.046,0.035,0.0331,0.0329,0.0322,0.0348,0.031,0.0298,0.0322,0.0319,0.0339
+Cooking for Jack,0.0091,0.0038,0.0029,0.0031,0.0041,0.0029,0.0029,0.0031,0.0029,0.0029,0.0038
+How to Become a Successful Consultant in Your Own Field,0.0119,0.006,0.0062,0.0048,0.0062,0.006,0.005,0.006,0.005,0.005,0.0062
+"Sophie Du Pont: A Young Lady in America : Sketches, Diaries, and Letters, 1823-1833",0.0041,0.0019,0.0021,0.001,0.001,0.0019,0.0019,0.0021,0.0019,0.0019,0.002
+MBO for nonprofit organizations,0.006,0.0031,0.0029,0.0021,0.0029,0.0031,0.0031,0.0029,0.0031,0.0029,0.0032
+"The Wrinkle Cure: Unlock the Power of Cosmeceuticals for Supple, Youthful Skin",0.005,0.0029,0.0031,0.0019,0.0031,0.0029,0.0021,0.0019,0.0031,0.0019,0.0028
+Step-By-Step Container Gardening: 50 Recipes for Creating Glorious Pots and Boxes,0.0069,0.0031,0.0029,0.0031,0.0031,0.0029,0.0031,0.0029,0.0031,0.0031,0.0034
+The New Grove Modern Masters (Composer Biography Series),0.0031,0.001,0.001,0.0021,0.0019,0.001,0.0012,0.0019,0.0019,0.001,0.0016
+City of Gold,0.0069,0.0041,0.0041,0.0041,0.0038,0.0041,0.0041,0.0041,0.0038,0.0041,0.0043
+Mother of Pearl,0.0029,0.0021,0.0019,0.0019,0.0021,0.0019,0.0021,0.0019,0.0019,0.0019,0.0021
+Icons,0.0021,0.0019,0.001,0.001,0.001,0.001,0.001,0.001,0.001,0.001,0.0012
+The View from a Monastery,0.006,0.0031,0.0029,0.0031,0.0019,0.0031,0.0031,0.0019,0.0031,0.0029,0.0031
+Who Needs God,0.0091,0.0081,0.006,0.005,0.005,0.005,0.005,0.005,0.005,0.005,0.0058
+Loving Thoughts,0.0029,0.0021,0.001,0.0021,0.001,0.0019,0.0021,0.0019,0.0019,0.0012,0.0018
+Kirkpatrick Mission (Diplomacy Wo Apology Ame at the United Nations 1981 to 85,0.005,0.0041,0.0019,0.0031,0.0019,0.0021,0.0019,0.0021,0.0019,0.0031,0.0027
+Bringing up Kids American Style,0.006,0.0041,0.0029,0.0021,0.0019,0.0031,0.0019,0.0019,0.0031,0.0029,0.003
+Maryland Today,0.0048,0.0041,0.0031,0.0031,0.0029,0.0031,0.0041,0.0029,0.0031,0.0041,0.0035
+Deployment: Hiding Behind Power Struggles as a Character Defense (Psychoanalytic Therapy Series),0.0019,0.0019,0.0021,0.0019,0.001,0.001,0.001,0.001,0.001,0.001,0.0014
+The Final Days,0.006,0.0041,0.0029,0.0041,0.0031,0.0031,0.0038,0.0031,0.0031,0.0029,0.0036
+James Herriot: The Life of a Country Vet,0.0072,0.0029,0.0021,0.0019,0.0019,0.0019,0.0019,0.0019,0.0012,0.0019,0.0025
+The Lisle Letters: An Abridgement,0.047,0.0119,0.0029,0.0031,0.0019,0.0021,0.0019,0.0021,0.0019,0.0019,0.0077
+The White Man's Burden: Historical Origins of Racism in the United States (Galaxy Books),0.0031,0.0019,0.0012,0.001,0.001,0.001,0.0012,0.001,0.001,0.001,0.0013
+WORDS FOR EVERYDAY ANIMALS (Words for Everyday),0.0021,0.001,0.001,0.0012,0.001,0.001,0.001,0,0.0012,0.001,0.0011
+A birthday gift for Mommi,0.005,0.0019,0.0021,0.0019,0.001,0.0021,0.0019,0.001,0.0012,0.0019,0.002
+Vision: A Personal Call to Create a New World,0.0179,0.0122,0.015,0.011,0.011,0.011,0.0122,0.011,0.01,0.01,0.0121
+"Three Essays: On Liberty, Representative Government, The Subjection of Women",0.0069,0.005,0.0041,0.005,0.0041,0.0041,0.0038,0.0041,0.0041,0.0041,0.0045
+The Mozart Companion a Symposium by leading Mozart Scholar,0.006,0.0031,0.0029,0.0021,0.0019,0.0031,0.0029,0.0021,0.0029,0.0031,0.003
+Joshua and the Children: A Parable,0.006,0.0019,0.0031,0.0019,0.0021,0.0019,0.0019,0.0021,0.001,0.0021,0.0024
+Red Square,0.0031,0.0019,0.0012,0.001,0.001,0.0019,0.0012,0.001,0.001,0.001,0.0014
+Buffalo Gordon,0.0041,0.001,0.0021,0.001,0.0019,0.001,0.0021,0.001,0.006,0.0072,0.0027
+Certain Poor Shepherds: A Christmas Tale,0.011,0.006,0.0041,0.005,0.0041,0.0041,0.005,0.005,0.0041,0.0041,0.0053
+The New Building Your Mate's Self-Esteem,0.0021,0.001,0.001,0.0012,0.001,0.001,0.001,0.001,0.0021,0.001,0.0012
+Rogue Regimes: Terrorism and Proliferation,0.005,0.0031,0.0019,0.0019,0.0021,0.0029,0.0021,0.0019,0.0021,0.0019,0.0025
+"The Abuse Excuse: And Other Cop-Outs, Sob Stories, and Evasions of Responsibility",0.0069,0.0031,0.0019,0.0031,0.0029,0.0031,0.0031,0.0038,0.0031,0.0041,0.0035
+Houghton Mifflin Invitations to Literature: Student Anthology Level 1.4 Surprise 1997 (Invitations to Lit 1997),0.0029,0.0021,0.0019,0.0021,0.0019,0.0021,0.0019,0.0019,0.0021,0.0019,0.0021
+The Pharaohs of Ancient Egypt (Megascope Series),0.0021,0.001,0.0019,0.0012,0.001,0.0019,0.0012,0.0019,0.001,0.0012,0.0014
+1776-1976: Zweihundert Jahre deutsch-amerikanische Beziehungen = two hundred years of German-American relations : eine Dokumentation (German Edition),0.0041,0.0019,0.0031,0.0019,0.0019,0.0031,0.0019,0.0021,0.0019,0.0021,0.0024
+Dannybird,0.0031,0.0019,0.001,0.0021,0.0019,0.001,0.0021,0.001,0.001,0.0019,0.0017
+Technical Manual and Dictionary of Classical Ballet (Dover Books on Dance),0.0019,0.0019,0.0012,0.0019,0.0019,0.0021,0.0019,0.001,0.001,0.0019,0.0017
+Life and Death in Shanghai,0.006,0.0031,0.0031,0.0029,0.0031,0.0029,0.0031,0.0031,0.0029,0.0031,0.0033
+100 Favorite Roses (100 Favorite Series),0.0019,0.0021,0.001,0.0019,0.001,0.0021,0.001,0.0019,0.0012,0.0019,0.0016
+All Around The Town,0.005,0.0031,0.0029,0.0031,0.0019,0.0031,0.0019,0.0021,0.0029,0.0021,0.0028
+New World Visions of Household Gods and Sacred Places: American Art and the Metropolitan Museum of Art 1650-1914,0.0031,0.0019,0.0021,0.0019,0.0019,0.0021,0.0019,0.0021,0.0019,0.0021,0.0021
+New Stories from the South 2001: The Year's Best,0.016,0.0112,0.0088,0.0079,0.0091,0.0091,0.0079,0.0081,0.0091,0.0079,0.0095
+Orchids as House Plants,0.005,0.0019,0.0021,0.0019,0.0021,0.0029,0.0021,0.0019,0.0021,0.0019,0.0024
+The History of the American Sailing Navy: The Ships and Their Development,0.0122,0.01,0.0069,0.0069,0.0072,0.006,0.006,0.0062,0.006,0.0069,0.0074
+"The Experience of Opera (Norton Library, N706)",0.0019,0.001,0.0012,0.001,0.001,0.0021,0.001,0.0019,0.001,0.0021,0.0014
+The pattern of Soviet power,0.0129,0.01,0.01,0.0091,0.0091,0.0091,0.0091,0.0088,0.0091,0.0091,0.0096
+"The World of Science Fiction, 1926-1976: The History of a Subculture",0.0062,0.0038,0.0041,0.0041,0.0029,0.0029,0.0031,0.0031,0.0029,0.0031,0.0036
+Passionate Paradox; the Life of Marie Stopes,0.0041,0.0031,0.0019,0.0031,0.0019,0.0019,0.0019,0.0019,0.0031,0.0019,0.0025
+The Law,0.006,0.0041,0.0029,0.0031,0.0041,0.0029,0.0031,0.0029,0.0029,0.0031,0.0035
+Horsewatching: Why does a horse whinny and everything else you ever wanted to know,0.0069,0.005,0.005,0.005,0.005,0.006,0.005,0.005,0.005,0.005,0.0053
+Linda Mccartney's Home Cooking,0.0091,0.005,0.005,0.0041,0.0041,0.005,0.0038,0.005,0.005,0.005,0.0051
+Herblock's special for today,0.0069,0.0041,0.0069,0.0041,0.0041,0.0041,0.0041,0.0029,0.0031,0.0041,0.0044
+Beginners Cookbook (Home Library),0.0031,0.001,0.0019,0.0012,0.0019,0.001,0.0021,0.001,0.001,0.0019,0.0016
+Ghost Light: A Memoir,0.0038,0.0019,0.0019,0.0031,0.0019,0.0031,0.0031,0.0029,0.0031,0.0029,0.0028
+The Sands of Time: A Hermux Tantamoq Adventure,0.0079,0.0041,0.0041,0.0041,0.005,0.005,0.0038,0.0038,0.005,0.0041,0.0047
+Murder at the Pentagon,0.006,0.0029,0.0031,0.0019,0.0019,0.0041,0.0019,0.0021,0.0019,0.0031,0.0029
+The Goomba's Book of Love,0.01,0.0081,0.0069,0.0081,0.0069,0.006,0.0069,0.0069,0.0081,0.0069,0.0075
+Stanley Elkin's Greatest Hits,0.0048,0.0021,0.0019,0.0021,0.0019,0.0019,0.0012,0.001,0.001,0.0021,0.002
+Griffin & Sabine: An Extraordinary Correspondence,0.005,0.0031,0.0019,0.0019,0.0021,0.0019,0.0021,0.0019,0.0019,0.0019,0.0024
+"Wine in Everyday Cooking: ""Cooking with Wine for Family and Friends""",0.0031,0.0019,0.001,0.0021,0.001,0.001,0.001,0.001,0.0019,0.001,0.0015
+Leading Lady: The World and Theatre of Katharine Cornell,0.0041,0.0021,0.0019,0.0019,0.0021,0.001,0.0021,0.0019,0.0021,0.0019,0.0021
+Invasion of the Mind Swappers From Asteroid 6!,0.001,0.001,0.0012,0.001,0.001,0.001,0.001,0.0012,0,0,0.0008
+The march of democracy,0.0041,0.0019,0.0031,0.0019,0.0031,0.0019,0.0019,0.0019,0.0019,0.0031,0.0025
+Einstein's Monsters,0.0031,0.0019,0.0019,0.0021,0.0019,0.0021,0.0019,0.0019,0.0021,0.0019,0.0021
+How To Live Through A Bad Day: 7 Powerful Insights From Christ's Words on the Cross,0.01,0.0041,0.0041,0.0041,0.0031,0.0029,0.0041,0.0041,0.0041,0.0041,0.0045
+The Ideals Country Kitchen Cookbook,0.0069,0.005,0.005,0.005,0.005,0.0041,0.005,0.005,0.0041,0.0038,0.0049
+The Passenger from Scotland Yard: A Victorian Detective Novel,0.0079,0.006,0.005,0.005,0.006,0.005,0.005,0.005,0.005,0.005,0.0055
+The 27-Ingredient Chili Con Carne Murders,0.005,0.0029,0.0021,0.0029,0.0031,0.0019,0.0031,0.0019,0.0019,0.0031,0.0028
+Looking for Alaska,0.0062,0.0019,0.001,0.0012,0.0019,0.0019,0.0021,0.001,0.001,0.0021,0.002
+Give Us This Day,0.0069,0.0031,0.0029,0.0041,0.0031,0.0041,0.0041,0.0038,0.0041,0.0041,0.004
+Crossing Over Jordan,0.0041,0.0019,0.0021,0.0029,0.0021,0.0019,0.0021,0.0029,0.0021,0.0019,0.0024
+Sculpture & carving at Washington Cathedral,0.005,0.0019,0.0019,0.0031,0.0029,0.0021,0.0029,0.0021,0.0019,0.0031,0.0027
+When Birds Could Talk And Bats Could Sing,0.0079,0.005,0.005,0.0041,0.0041,0.0041,0.005,0.0038,0.0041,0.0041,0.0047
+Line of Fire: Continuing the Saga of the Corps,0.005,0.0019,0.0021,0.0019,0.0019,0.0031,0.0031,0.0019,0.0031,0.0029,0.0027
+Sun and Shadow,0.0069,0.005,0.006,0.0031,0.0041,0.0038,0.0041,0.0041,0.0041,0.0041,0.0045
+Heartstring Quilts: Quilts Made Easy (Quilting),0.001,0.001,0.0012,0.001,0.001,0.001,0.001,0.0012,0.001,0.001,0.001
+Crooked Hearts,0.006,0.0038,0.0041,0.0041,0.0041,0.0038,0.0041,0.0041,0.0031,0.0041,0.0041
+The Lower Depths and Other Plays,0.0079,0.0041,0.0041,0.0031,0.0038,0.0041,0.0031,0.0038,0.0031,0.0041,0.0041
+Chanticleer;: The poems of Terry Wise,0.005,0.0031,0.0019,0.0031,0.0019,0.0021,0.0019,0.0019,0.0021,0.0019,0.0025
+You Know You're A Republican/Democrat If...,0.0019,0.0012,0.0019,0.001,0.001,0.0012,0.001,0,0.001,0,0.001
+From Mama's Kitchen,0.006,0.0031,0.0041,0.0029,0.0031,0.0031,0.0029,0.0041,0.0031,0.0029,0.0035
+The Silence Now: New and Uncollected Early Poems,0.0079,0.005,0.0038,0.0038,0.0041,0.0041,0.0041,0.005,0.0041,0.0041,0.0046
+Especially for Mothers,0.0031,0.0029,0.0021,0.0029,0.0021,0.0019,0.0021,0.0029,0.0031,0.0019,0.0025
+The Big Bite Book of Pizzas,0.005,0.0029,0.0031,0.0029,0.0031,0.0031,0.0019,0.0021,0.0019,0.0031,0.0029
+Stories In An Almost Classical Mode,0.0088,0.0041,0.0041,0.0041,0.0038,0.0041,0.0031,0.0031,0.0038,0.0041,0.0043
+Princess Margaret,0.0029,0.001,0.001,0.0019,0.0021,0.001,0.0019,0.0021,0.001,0.0019,0.0017
+M'sieu Robin : Lyrics and legends of Jean Baptiste and his friends,0.01,0.0041,0.0029,0.0041,0.0031,0.0029,0.0031,0.0031,0.0041,0.0029,0.004
+With or Without and Other Stories,0.0138,0.0091,0.0091,0.0079,0.0079,0.0081,0.0079,0.0079,0.0091,0.0079,0.0089
+Parenting Isn't for Cowards: Dealing Confidently With the Frustrations of Child-Rearing,0.0031,0.001,0.001,0.001,0.0021,0.001,0.001,0.0012,0.001,0.0019,0.0014
+Frisky Business: All About Being Owned by a Cat,0.0091,0.0069,0.0072,0.0069,0.0069,0.0062,0.006,0.0069,0.0072,0.0069,0.007
+The Seacoast of Bohemia,0.0041,0.0019,0.001,0.0019,0.0021,0.0019,0.0021,0.0019,0.0019,0.0021,0.0021
+The Arrival Kit: A Guide for your Journey in the Kingdom of God,0.0091,0.006,0.0069,0.0069,0.0072,0.0069,0.0072,0.0079,0.0069,0.0072,0.0072
+The Catholic Girl's Guide to Sex,0.011,0.0079,0.0069,0.0072,0.0079,0.0062,0.0069,0.0069,0.0069,0.0072,0.0075
+In the Shadow of the Ark,0.005,0.0041,0.0029,0.006,0.0031,0.0031,0.0029,0.0031,0.0031,0.0029,0.0036
+The Supernaturalist,0.0038,0.0031,0.0019,0.0019,0.0019,0.0019,0.0019,0.0019,0.0019,0.0019,0.0022
+U and I: A True Story,0.0119,0.0088,0.0091,0.0081,0.0088,0.0081,0.0079,0.0081,0.0069,0.0069,0.0085
+Love Invents Us,0.0098,0.0062,0.005,0.005,0.005,0.005,0.0048,0.005,0.005,0.005,0.0056
+Zero Db and Other Stories,0.0119,0.0091,0.01,0.0091,0.0091,0.01,0.0091,0.0088,0.01,0.0091,0.0096
+The Heart of a Leader,0.0088,0.0062,0.005,0.0041,0.005,0.005,0.005,0.0038,0.0041,0.0041,0.0051
+Hefner,0.0019,0.001,0.0012,0.001,0.001,0.001,0.001,0,0.001,0.001,0.001
+The Secrets of Savvy Networking: How to Make the Best Connections for Business and Personal Success,0.01,0.006,0.005,0.005,0.005,0.0041,0.0072,0.005,0.005,0.0041,0.0056
+A Shaker's Dozen,0.0031,0.0019,0.0019,0.0021,0.0019,0.001,0.0021,0.0019,0.001,0.0012,0.0018
+Personal History,0.0091,0.006,0.0069,0.006,0.0072,0.006,0.006,0.006,0.0062,0.006,0.0065
+Friendship with God: an uncommon dialogue,0.005,0.0031,0.0029,0.0031,0.0019,0.0031,0.0019,0.0031,0.0019,0.0021,0.0028
+Extravagant Grace,0.0041,0.001,0.0019,0.001,0.001,0.001,0.0019,0.001,0.0021,0.0019,0.0017
+13 Things You Gotta Know to Make it as a Christian (Powerlink Student Devotional),0.0031,0.0019,0.0021,0.001,0.001,0.0021,0.0019,0.001,0.0012,0.001,0.0016
+Dave Barry's Guide to Marriage and/or Sex,0.0119,0.006,0.006,0.005,0.0072,0.006,0.0069,0.006,0.01,0.0069,0.0072
+The Festival Cookbook: Four Seasons of Favorites,0.005,0.0031,0.0029,0.0021,0.0019,0.0021,0.0019,0.0019,0.0021,0.0019,0.0025
+Shella,0.0019,0.001,0.001,0.001,0.001,0.001,0.0019,0.0012,0.001,0.001,0.0012
+What To Cook When You Think There's Nothing in the House To Eat: More Than 175 Easy Recipes And Meal Ideas,0.015,0.0079,0.0081,0.0079,0.0072,0.0069,0.0069,0.0069,0.0081,0.0069,0.0082
+Little Vegetarian Feasts: Main-Dish Grains,0.0069,0.0031,0.0029,0.0021,0.0019,0.0031,0.0019,0.0031,0.0029,0.0021,0.003
+Stir-Fry (Sunset Creative Cooking Library),0.0031,0.001,0.0019,0.001,0.001,0.001,0.001,0.0012,0.001,0.0019,0.0014
+Collected Stories of Reynolds Price,0.0088,0.005,0.0041,0.0041,0.005,0.0041,0.0041,0.0041,0.0038,0.0041,0.0047
+DIY Girl,0.006,0.0041,0.005,0.0041,0.0038,0.0041,0.0041,0.0041,0.0041,0.005,0.0044
+The Divine Pastime: Theatre Essays,0.0072,0.0041,0.005,0.0038,0.0041,0.0041,0.0041,0.0038,0.005,0.0041,0.0045
+What's Bred in the Bone (Cornish Trilogy),0.0029,0.0021,0.001,0.001,0.0021,0.0019,0.0021,0.0019,0.0019,0.0021,0.0019
+Mastering the Zone: The Next Step in Achieving SuperHealth and Permanent Fat Loss,0.006,0.005,0.0041,0.0031,0.0041,0.0029,0.0031,0.0029,0.0029,0.0031,0.0037
+North Carolina Lighthouses,0.005,0.0031,0.0021,0.0019,0.0031,0.0019,0.0019,0.0021,0.0019,0.0021,0.0025
+"Analyzing Performance Problems, or You Really Oughta Wanna",0.005,0.0031,0.0019,0.0031,0.0019,0.0019,0.0021,0.0019,0.0021,0.0019,0.0025
+Reviving Ophelia: Saving the Selves of Adolescent Girls (Ballantine Reader's Circle),0.0021,0.0019,0.001,0.0021,0.001,0.0019,0.001,0.0021,0.001,0.0019,0.0016
+Napoleon and Hitler,0.0041,0.0019,0.0021,0.001,0.001,0.001,0.0019,0.0021,0.001,0.001,0.0017
+Encounter and Encouragement: A Bicentennial Review of German-American Relations,0.0088,0.0041,0.0041,0.0031,0.0031,0.0038,0.0041,0.0041,0.0029,0.0062,0.0044
+Too Busy to Clean,0.005,0.0021,0.001,0.0021,0.0019,0.001,0.0012,0.0019,0.0019,0.0021,0.002
+Keeping Your Kids Catholic: It May Seem Impossible but It Can Be Done,0.005,0.0019,0.0031,0.0019,0.0019,0.0031,0.0019,0.0031,0.0019,0.0019,0.0026
+Vines (Burpee American Gardening Series),0.0019,0.0019,0.0012,0.001,0.001,0.001,0.001,0.0012,0,0.001,0.0011
+Roads to Antietam,0.0041,0.0019,0.0021,0.0019,0.0019,0.0021,0.0019,0.001,0.001,0.001,0.0019
+Nursery Rhymes: A Collection from Mother Goose (Illustrated Library for Child.),0.0031,0.0019,0.0012,0.001,0.0019,0.001,0.0012,0.001,0.001,0.001,0.0014
+The Art of Cooking with Herbs & Spices,0.0062,0.0029,0.0031,0.0031,0.0029,0.0031,0.0029,0.0031,0.0029,0.0021,0.0032
+The uncommon cookbook,0.0069,0.0041,0.0041,0.0041,0.0041,0.0038,0.0041,0.0041,0.0041,0.0041,0.0044
+List Your Self: Listmaking as the Way to Self-Discovery,0.0019,0.0021,0.001,0.001,0.0012,0.001,0.001,0.001,0.001,0.0012,0.0012
+The Insider's Guide to Getting Published: Why They Always Reject Your Manuscript and What You Can Do About It,0.011,0.0079,0.0072,0.0069,0.0081,0.006,0.0069,0.006,0.0062,0.0069,0.0073
+"Walking the Cat by Tommy "" Tip"" Paine: Gordon Liddy Is My Muse II",0.0088,0.006,0.0062,0.006,0.005,0.006,0.006,0.006,0.006,0.0062,0.0062
+The Theory of the Modern Stage: An Introduction to Modern Theatre and Drama,0.0081,0.005,0.0048,0.005,0.005,0.005,0.005,0.005,0.0041,0.0041,0.0051
+Mistler's Exit,0.0031,0.0041,0.0019,0.0019,0.0012,0.001,0.0019,0.0021,0.0019,0.001,0.002
+Small Patchwork & Quilting,0.0062,0.0029,0.0021,0.0029,0.0031,0.0031,0.0029,0.0031,0.0029,0.0031,0.0032
+A Portfolio of Outdoor Furnishing Ideas (Portfolio Ofideas),0.0031,0.0019,0.0019,0.0012,0.001,0.0019,0.0021,0.001,0.001,0.0021,0.0017
+Cooking With Helen McCully Beside You,0.0391,0.0298,0.0279,0.0291,0.0279,0.0279,0.0281,0.0279,0.0281,0.026,0.0292
+Christopher Idone's Glorious American Food,0.0072,0.0041,0.0038,0.0041,0.0031,0.0038,0.0031,0.0031,0.0029,0.0031,0.0038
+Family portrait,0.0091,0.0021,0.0019,0.0031,0.0029,0.0031,0.0019,0.0031,0.0019,0.0031,0.0032
+The Whole Shebang: A State-of-the-Universe(s) Report,0.0081,0.005,0.0041,0.0041,0.005,0.0038,0.0038,0.005,0.0041,0.0041,0.0047
+Eating Well for Optimum Health: The Essential Guide to Bringing Health and Pleasure Back to Eating,0.0088,0.006,0.005,0.005,0.005,0.005,0.0038,0.0038,0.0048,0.005,0.0052
+Teverton Hall,0.0041,0.0031,0.0019,0.0031,0.0019,0.0021,0.0029,0.0021,0.0038,0.0021,0.0027
+Inference of guilt,0.005,0.0031,0.0019,0.0031,0.0019,0.0021,0.0019,0.0031,0.0019,0.0031,0.0027
+Lines in the Sand: Desert Storm and the Remaking of the Arab World,0.0229,0.0181,0.098,0.0169,0.0122,0.011,0.011,0.0131,0.011,0.01,0.0224
+The Witling,0.0041,0.001,0.001,0.001,0.0012,0.001,0.001,0.001,0.0012,0.0019,0.0014
+The Courage to Be Rich: Creating a Life of Material and Spiritual Abundance,0.0069,0.0031,0.0019,0.0031,0.0019,0.0021,0.0029,0.0021,0.0019,0.0031,0.0029
+Our Nature,0.0041,0.0021,0.001,0.0019,0.0021,0.001,0.0019,0.0021,0.001,0.0019,0.0019
+The Gift of Sex: A Guide to Sexual Fulfillment,0.006,0.0031,0.0019,0.0031,0.0019,0.0021,0.0029,0.0021,0.0019,0.0019,0.0027
+Basic Principles of Classical Ballet,0.0062,0.0019,0.0019,0.0021,0.0019,0.0019,0.0021,0.0019,0.0021,0.0019,0.0024
+The Biblical Road to Blessing,0.0041,0.0019,0.0021,0.0019,0.0019,0.0021,0.001,0.001,0.0021,0.0019,0.002
+Remembered Laughter: The Life of Noel Coward. Orig Pub in Great Britain Under Title: Life of Noel Coward,0.005,0.0031,0.0019,0.0019,0.0031,0.0019,0.0021,0.0019,0.0031,0.0019,0.0026
+Peanuts: A Golden Celebration: The Art and the Story of the World's Best-Loved Comic Strip,0.0041,0.0019,0.0019,0.0012,0.0019,0.001,0.0021,0.0019,0.001,0.0021,0.0019
+Other loyalties;: A politics of personality,0.0038,0.0021,0.0019,0.0019,0.0021,0.0019,0.0021,0.0019,0.0019,0.0012,0.0021
+The Language of Life: A Festival of Poets,0.0038,0.0021,0.0019,0.0021,0.0019,0.001,0.0021,0.0019,0.0019,0.001,0.002
+The Shutterfly Guide to Great Digital Photos (CLS.EDUCATION),0.001,0,0.0012,0.001,0.001,0,0,0.001,0.0012,0,0.0006
+Henry VIII and His Court,0.006,0.0029,0.0021,0.0019,0.0021,0.0019,0.0019,0.0021,0.0019,0.0021,0.0025
+The New Grove Mozart,0.0038,0.0021,0.0019,0.0021,0.0019,0.0019,0.0021,0.0019,0.001,0.0012,0.002
+Short bike rides in New Jersey,0.005,0.0029,0.0021,0.0019,0.0019,0.0031,0.0019,0.0021,0.0019,0.0019,0.0025
+Pledged: The Secret Life of Sororities,0.0031,0.0019,0.0021,0.001,0.0019,0.0012,0.0019,0.001,0.0021,0.001,0.0017
+Smoky Mountains Trout Fishing Guide,0.0219,0.016,0.016,0.015,0.015,0.015,0.015,0.015,0.015,0.015,0.0159
+A Thing or Two About Soccer,0.005,0.0019,0.0021,0.0019,0.0021,0.0019,0.001,0.001,0.0021,0.0019,0.0021
+Guide to Cults and New Religions,0.0041,0.0031,0.0019,0.0031,0.0019,0.0019,0.0021,0.0019,0.0021,0.0019,0.0024
+"Preparatory Piano Literature: Origianl Keyboard Classics With Optional Teacher Duets, Elementary (Developing Artist)",0.0019,0.0012,0.001,0.001,0.001,0.0012,0.001,0.001,0.001,0.0012,0.0012
+Winter Has Lasted Too Long,0.0072,0.0029,0.0031,0.0029,0.0021,0.0029,0.0021,0.0029,0.0021,0.0019,0.003
+"Iron Man: The Cal Ripken, Jr. Story",0.0081,0.006,0.005,0.006,0.006,0.0062,0.006,0.005,0.006,0.006,0.006
+The Only Way I Know,0.0069,0.0041,0.0041,0.0038,0.0031,0.0041,0.0029,0.0029,0.0041,0.0031,0.0039
+Knots on a Counting Rope (Reading Rainbow Books),0.0019,0.001,0.001,0.001,0.0012,0.001,0.001,0.001,0.001,0.0012,0.0011
+New Ways With Fresh Flowers: 50 Inspirational Projects for Contemporary Floral Designers,0.0072,0.0029,0.0031,0.0019,0.0021,0.0029,0.0021,0.0019,0.0031,0.0019,0.0029
+QPB Encyclopedia of Word & Phrase Origins,0.005,0.0031,0.0019,0.0021,0.0019,0.0031,0.0019,0.0019,0.0019,0.0019,0.0025
+German A La Cartoon,0.0041,0.0019,0.001,0.001,0.0021,0.0019,0.0019,0.0021,0.001,0.0019,0.0019
+The Complete Idiot's Guide to Getting Published,0.006,0.0031,0.0029,0.0031,0.0031,0.0029,0.0021,0.0019,0.0031,0.0029,0.0031
+Death Gets a Time-Out (Mommy-Track Mysteries),0.0021,0.001,0.001,0.001,0.001,0.0012,0.001,0.001,0.001,0.001,0.0011
+The Reader's Companion to South Africa,0.005,0.0019,0.0031,0.0019,0.0019,0.0019,0.0019,0.0031,0.0019,0.0021,0.0025
+Dealing With People You Can't Stand,0.006,0.0029,0.0031,0.0031,0.0029,0.0031,0.0019,0.0031,0.0029,0.0031,0.0032
+Operation Redemption: A Vision of Hope in an Age of Turmoil,0.0041,0.0019,0.001,0.001,0.0019,0.0021,0.001,0.0019,0.0021,0.0019,0.0019
+Let Freedom Ring: Winning the War of Liberty over Liberalism,0.005,0.0019,0.0019,0.0021,0.0019,0.0021,0.0019,0.0019,0.0021,0.0019,0.0023
+Hamlet (Oxford World's Classics),0.0021,0.001,0.001,0.001,0.001,0.0012,0.001,0.001,0.001,0.001,0.0011
+The Playboy of the Western World and Other Plays: Riders to the Sea; The Shadow of the Glen; The Tinker's Wedding; The Well of the Saints; The Playboy ... of the Sorrows (Oxford World's Classics),0.0031,0.0019,0.0021,0.0019,0.0019,0.0021,0.0019,0.0021,0.0019,0.0019,0.0021
+Grandparenthood,0.0031,0.001,0.0021,0.001,0.001,0.001,0.001,0.001,0.001,0.001,0.0013
+Twelve,0.0019,0.0012,0.001,0.001,0.001,0,0.001,0.0012,0.001,0.001,0.001
+"Cycles of Fire: Stars, Galaxies and the Wonder of Deep Space",0.005,0.0019,0.0021,0.0019,0.0019,0.0021,0.0019,0.0021,0.0019,0.0021,0.0023
+The Dancing Healers: A Doctor's Journey of Healing with Native Americans,0.006,0.0029,0.0031,0.0029,0.0031,0.0031,0.0029,0.0031,0.0029,0.0031,0.0033
+Time Exposure: A Photographic Record of the Dinosaur Age,0.0069,0.0041,0.005,0.0041,0.0041,0.0038,0.0041,0.0031,0.0041,0.0041,0.0043
+"The Way of the Trout: Anglers, Wild Fish and Running Water",0.0069,0.0041,0.0041,0.0038,0.0041,0.0041,0.0041,0.0041,0.0038,0.0041,0.0043
+Hope Was Here (Newbery Honor Book),0.001,0.0012,0.001,0.001,0.001,0,0,0.001,0.0012,0.001,0.0008
+A Tale of Two Cities (Oxford World's Classics),0.001,0.001,0.001,0,0,0.001,0.001,0.001,0.0012,0.001,0.0008
+Frank Sinatra: An American Legend,0.006,0.0019,0.0031,0.0029,0.0021,0.0019,0.0021,0.0019,0.0031,0.0019,0.0027
+WP8 - Theory Lessons - Level 2 - Bastien Piano Library,0.0072,0.0041,0.0029,0.0041,0.0041,0.0029,0.0029,0.0041,0.0031,0.0029,0.0038
+Who Owns America?,0.001,0.001,0.001,0.001,0.001,0.0012,0.001,0,0.001,0.001,0.0009
+Bloodsong,0.0019,0.0012,0.001,0.001,0.001,0.001,0.0012,0.001,0.001,0.001,0.0011
+The Vampire Book: The Encyclopedia of the Undead,0.005,0.0019,0.0021,0.001,0.0019,0.0021,0.0019,0.001,0.0021,0.0019,0.0021
+A Midsummer Night's Dream (Oxford World's Classics),0.001,0.001,0.001,0.001,0.001,0.001,0.0012,0.001,0.001,0.001,0.001
+Bob Miller's Calc for the Clueless: Calc I (Bob Miller's Clueless Series),0.0079,0.0029,0.0021,0.0019,0.0019,0.001,0.001,0.0019,0.001,0.001,0.0023
+Mariel of Redwall,0.01,0.0029,0.0031,0.0019,0.0021,0.0019,0.001,0.0012,0.001,0.0019,0.0027
+The Body Book: A Fantastic Voyage to the World Within,0.0079,0.0041,0.0031,0.0029,0.0041,0.006,0.0021,0.0141,0.0019,0.0031,0.0049
+Nerilka's Story (Dragonriders of Pern Series),0.0021,0.001,0.001,0.0021,0.001,0.0019,0.0012,0.001,0.001,0.001,0.0013
+Americas: The Changing Face of Latin America and the Caribbean (A Main Selection of the History Book Club),0.0029,0.0021,0.0019,0.001,0.0021,0.0019,0.0021,0.001,0.001,0.0019,0.0018
+"Mayo Clinic On Vision And Eye Health: Practical Answers on Glaucoma, Cataracts, Macular Degeneration & Other Conditions (""MAYO CLINIC ON"" SERIES)",0.0031,0.0019,0.0021,0.0029,0.0021,0.0019,0.0019,0.0021,0.0019,0.0021,0.0022
+Parrot in the Oven: Mi vida (Cover May Vary),0.0021,0.005,0.001,0.001,0.001,0.0012,0.001,0.0019,0.001,0.0012,0.0016
+A Passion for Golf: The Best of Golf Writing,0.0091,0.0038,0.0031,0.0041,0.0029,0.0041,0.0031,0.0029,0.0031,0.0031,0.0039
+The Way of the Wizard: Twenty Spiritual Lessons for Creating the Life You Want,0.006,0.005,0.0041,0.0031,0.0038,0.0041,0.0041,0.0041,0.0041,0.0041,0.0043
+Handmade for Profit!: Hundreds of Secrets to Success in Selling Arts and Crafts,0.0069,0.0041,0.0031,0.0029,0.0031,0.0031,0.0038,0.0031,0.0041,0.0029,0.0037
+Totline Teaching Tales ~ Short-Short Stories ~ Simple Stories For Young Children Plus Seasonal Activities,0.026,0.0041,0.0041,0.0031,0.0038,0.0031,0.0041,0.0029,0.0041,0.0031,0.0058
+Treasury Whole Language Literature Ideas (Troll Teacher Idea Books),0.0019,0.0021,0.0019,0.001,0.0021,0.001,0.001,0.0012,0.001,0.001,0.0014
+Meet the Author (Troll Professional Series),0.0031,0.001,0.001,0.0012,0.001,0.001,0.001,0.0012,0.001,0.001,0.0013
+"Adventuring Along the Southeast Coast: The Sierra Club Guide to the Low Country, Beaches, and Barrier Islands of North Carolina, South Carolina, and (Sierra Club Adventure Travel Guides)",0.0031,0.0031,0.0029,0.0031,0.0029,0.0031,0.0029,0.0031,0.0019,0.0019,0.0028
+Totline Teaching Tales ~ Teeny-Tiny Folktales ~ Simple Folktales For Young Children Plus Flannelboard Patterns,0.006,0.0041,0.0031,0.0029,0.0041,0.0031,0.0038,0.0041,0.0031,0.0041,0.0038
+"Discovering Oceans, Lakes, Ponds and Puddles",0.005,0.0019,0.0031,0.0019,0.0019,0.0019,0.0019,0.0021,0.0019,0.0021,0.0024
+Game Birds Of North America,0.031,0.025,0.0238,0.0231,0.0231,0.0229,0.0231,0.0229,0.0241,0.0229,0.0242
+The Birdwatcher's Companion,0.0079,0.005,0.005,0.0041,0.0041,0.005,0.0041,0.0048,0.005,0.0041,0.0049
+"Stalking birds with color camera,",0.0021,0.001,0.001,0.0021,0.001,0.001,0.0019,0.0012,0.001,0.001,0.0013
+Glorious French Food: A Fresh Approach to the Classics,0.011,0.0081,0.0069,0.0072,0.006,0.0072,0.006,0.0069,0.006,0.0081,0.0073
+The Portrait of a Lady (Oxford World's Classics),0.0021,0.0019,0.001,0.0012,0.001,0.001,0.0021,0.001,0.0019,0.001,0.0014
+"Wilderness kingdom, Indian life in the Rocky Mountains: 1840-1847;: The journals & paintings of Nicolas Point",0.0069,0.0031,0.0031,0.0029,0.0031,0.0029,0.0031,0.0031,0.0019,0.0019,0.0032
+Managing Transitions: Making The Most Of Change,0.006,0.0041,0.006,0.0031,0.0029,0.0031,0.0031,0.0029,0.0031,0.0029,0.0037
+False Assumptions,0.0041,0.0019,0.0021,0.0019,0.0019,0.0021,0.0019,0.0019,0.0021,0.0041,0.0024
+"Mortgaging The Earth: The World Bank, Environmental Impoverishment, and the Crisis of Development",0.0079,0.006,0.005,0.0062,0.006,0.005,0.005,0.0041,0.005,0.005,0.0055
+Banff Springs the Story of a Hotel,0.006,0.0031,0.0029,0.0031,0.0029,0.0031,0.0031,0.0029,0.0031,0.0029,0.0033
+Origins Of History,0.011,0.0079,0.0081,0.0069,0.0069,0.0079,0.0081,0.0081,0.0069,0.0069,0.0079
+What Bird Did That?: A Driver's Guide to Some Common Birds of North America,0.0319,0.0269,0.025,0.026,0.026,0.026,0.0248,0.026,0.026,0.0272,0.0266
+A Separate Peace with Connections (HRW Library),0.0019,0.0021,0.0019,0.001,0.0021,0.001,0.0019,0.0012,0.001,0.001,0.0015
+Inner Revolution,0.0062,0.0029,0.0031,0.0041,0.0029,0.0031,0.0031,0.0019,0.0031,0.0031,0.0034
+Lost Cities of the Maya (Discoveries),0.001,0.001,0.0012,0.001,0.001,0.001,0.001,0.0012,0.001,0.001,0.001
+Life in Ancient Egypt,0.006,0.0031,0.0031,0.0038,0.0031,0.0029,0.0031,0.0031,0.0029,0.0021,0.0033
+25 Bicycle Tours in New Jersey,0.005,0.0031,0.0041,0.0029,0.0031,0.0031,0.0038,0.0031,0.0031,0.0041,0.0035
+The World of the Ancient Maya,0.006,0.0041,0.0029,0.0081,0.0041,0.0041,0.0038,0.0041,0.0041,0.0029,0.0044
+A delicately personal matter: A J.D. Mulroy mystery novel,0.0119,0.0091,0.0079,0.0081,0.0081,0.0079,0.0081,0.0069,0.0072,0.0069,0.0082
+Terrorism and Democracy,0.0048,0.0031,0.0031,0.0019,0.0021,0.0029,0.0031,0.0029,0.0031,0.0019,0.0029
+A Son of Thunder: Patrick Henry and the American Republic,0.0079,0.005,0.005,0.005,0.005,0.005,0.0048,0.005,0.005,0.005,0.0053
+Cam Jansen and the Triceratops Pops Mystery #15,0.0019,0.001,0.001,0.001,0.001,0.001,0.0012,0.001,0.001,0.001,0.0011
+Summerland,0.0031,0.0019,0.0012,0.0019,0.001,0.0021,0.0019,0.001,0.0012,0.0019,0.0017
+Three Gospels,0.0031,0.001,0.0021,0.0019,0.0019,0.0021,0.0019,0.0021,0.0019,0.0019,0.002
+Creative Conversations: The Writer's Complete Guide to Conducting Interviews,0.006,0.0029,0.0031,0.0031,0.0029,0.0031,0.0029,0.0031,0.0031,0.0029,0.0033
+Doing It,0.0072,0.006,0.005,0.005,0.005,0.005,0.006,0.005,0.005,0.005,0.0054
+The Wind in the Willows (Children's Classics),0.0019,0.0021,0.0019,0.0021,0.0019,0.0019,0.001,0.0021,0.0019,0.0021,0.0019
+500 Full-Size Patchwork Patterns,0.006,0.0031,0.006,0.0029,0.0029,0.0031,0.0029,0.0031,0.0029,0.0029,0.0036
+Cases in managerial finance (The Dryden Press series in finance),0.0031,0.0019,0.0021,0.0019,0.0021,0.0019,0.0019,0.0021,0.0019,0.0019,0.0021
+Stress And The Family: Coping With Normative Transitions (Psychosocial Stress Series),0.0019,0.0019,0.0021,0.0019,0.001,0.0021,0.0019,0.0021,0.0019,0.0019,0.0019
+Demon of the Waters: The True Story of the Mutiny on the Whaleship Globe,0.0062,0.0038,0.0031,0.0041,0.0029,0.0031,0.0031,0.0029,0.0041,0.0031,0.0036
+The Tiananmen Papers : The Chinese Leadership's Decision to Use Force Against Their Own People - In Their Own Words,0.01,0.006,0.006,0.006,0.006,0.0062,0.006,0.006,0.006,0.006,0.0064
+Struggle for Intimacy (Adult Children of Alcoholics series),0.0021,0.0019,0.001,0.001,0.0019,0.0021,0.001,0.001,0.001,0.001,0.0014
+550 Home Landscaping Ideas,0.0069,0.0041,0.0041,0.0041,0.0038,0.0029,0.0031,0.0031,0.0029,0.0041,0.0039
+Money Harmony: Resolving Money Conflicts in Your Life and Relationships,0.005,0.0029,0.0041,0.0031,0.0029,0.0031,0.0019,0.0031,0.0031,0.0029,0.0032
+Who Says Elephants Can't Dance?:  Inside IBM's Historic Turnaround,0.0072,0.0041,0.0029,0.0031,0.0041,0.0029,0.0031,0.0041,0.0041,0.0029,0.0039
+The Expert's Guide To Backyard Birdfeeding,0.006,0.0029,0.0031,0.0041,0.0029,0.0029,0.0041,0.0031,0.0038,0.0041,0.0037
+Totline 123 Puppets (1 2 3 Series:  Language Ages 2-6),0.0021,0.0019,0.001,0.0021,0.001,0.001,0.001,0.0012,0.001,0.001,0.0013
+American Artists On Art: From 1940 To 1980 (Icon Editions),0.0029,0.0021,0.0019,0.0019,0.0021,0.005,0.0019,0.0019,0.0021,0.0019,0.0024
+Swan watch,0.005,0.0031,0.0031,0.0019,0.0019,0.0021,0.0019,0.0031,0.0019,0.0031,0.0027
+The American musical theater;: A consideration (A CBS Legacy collection book),0.0021,0.0019,0.0019,0.0021,0.001,0.001,0.0021,0.0019,0.0019,0.0012,0.0017
+The Princess Test (Princess Tales),0.0019,0.001,0.001,0.001,0.0019,0.0012,0.0019,0.001,0.0021,0.001,0.0014
+The Nature of Theatre.,0.0021,0.001,0.0019,0.0012,0.0019,0.001,0.0021,0.001,0.0019,0.001,0.0015
+Interactive Bulletin Boards,0.005,0.0019,0.0021,0.0019,0.0031,0.0019,0.0019,0.0031,0.0019,0.0021,0.0025
+Parthian Words,0.006,0.0041,0.0041,0.0038,0.0041,0.0041,0.0031,0.0029,0.0029,0.0041,0.0039
+Best Cat Stories,0.0141,0.01,0.0091,0.0088,0.0091,0.0091,0.0091,0.0091,0.0088,0.0091,0.0096
+Religion in America: An historical account of the development of American religious life,0.0198,0.0181,0.016,0.016,0.016,0.0169,0.016,0.0191,0.016,0.0141,0.0168
+Why Can't I Fall in Love? A 12-Step Program,0.0091,0.006,0.005,0.005,0.0041,0.005,0.0038,0.005,0.005,0.0062,0.0054
+Wolf in the Shadows (A Sharon Mccone Mystery),0.0019,0.0021,0.001,0.001,0.001,0.001,0.0019,0.001,0.0021,0.001,0.0014
+Just Build the Ark and the Animals Will Come:: Children on Bible Stories,0.0291,0.0129,0.011,0.01,0.01,0.0112,0.0119,0.02,0.01,0.011,0.0137
+A Man for All Seasons: A Play in Two Acts,0.0072,0.0041,0.0029,0.0031,0.0029,0.0031,0.0029,0.0029,0.0031,0.0029,0.0035
+Jeremy: The Tale of an Honest Bunny,0.005,0.0019,0.0019,0.0021,0.0019,0.0019,0.0021,0.0019,0.0021,0.0019,0.0023
+Invisible No More: The Secret Lives of Women Over 50,0.02,0.0041,0.0029,0.0031,0.0031,0.0038,0.0031,0.0041,0.0029,0.0029,0.005
+Harrap's Spanish and English Pocket Dictionary (Harrap's Dictionaries),0.0031,0.0019,0.0021,0.0019,0.0021,0.0019,0.0019,0.0021,0.001,0.005,0.0023
+The National Air and Space Museum,0.0272,0.006,0.006,0.006,0.0091,0.006,0.006,0.0072,0.006,0.006,0.0086
+Free Flight: From Airline Hell to a New Age of Travel,0.011,0.0029,0.0029,0.0119,0.0041,0.0041,0.0038,0.0031,0.0041,0.0038,0.0052
+The Book of Massage: The Complete Step-by-Step Guide To Eastern And Western Techniques,0.01,0.005,0.005,0.005,0.005,0.0041,0.0041,0.0079,0.006,0.0179,0.007
+The practice of social research,0.0081,0.0041,0.0041,0.0019,0.0031,0.0029,0.0031,0.0031,0.0029,0.0031,0.0036
+"Endangered Pleasures: In Defense of Naps, Bacon, Martinis, Profanity, and Other Indulgences",0.006,0.0031,0.0029,0.0031,0.0031,0.0029,0.0031,0.0029,0.0031,0.0029,0.0033
+Hosting the Birds: How to Attract Birds to Nest in Your Yard,0.005,0.0029,0.0041,0.0031,0.0029,0.0041,0.0031,0.0029,0.0031,0.0041,0.0035
+Families on the Fault Line,0.0069,0.005,0.0041,0.0041,0.0041,0.0038,0.0041,0.0041,0.0041,0.0041,0.0044
+Our Last Best Shot: Guiding our Children Through Early Adolescence,0.0072,0.0038,0.0031,0.0031,0.0041,0.0029,0.0041,0.0041,0.0029,0.0041,0.0039
+Intermediate Algebra Functions and Authentic Applications,0.0072,0.0041,0.0069,0.0031,0.0041,0.0041,0.0038,0.0041,0.0031,0.0041,0.0045
+The Clustering of America,0.0379,0.0329,0.1152,0.0441,0.0238,0.02,0.0191,0.0191,0.0191,0.0191,0.035
+"Nelson Rockefeller,: A biography",0.0062,0.0029,0.0021,0.0019,0.0031,0.0029,0.0021,0.0029,0.0031,0.0031,0.003
+The PreHistory of The Far Side: A 10th Anniversary Exhibit (Volume 14),0.0019,0.0019,0.0012,0.001,0.001,0.001,0.001,0.001,0.0012,0.001,0.0012
+Double Buckeyes: A Story of the Way America Used to Be,0.0298,0.0219,0.02,0.02,0.021,0.021,0.02,0.02,0.021,0.02,0.0215
+Investment Biker: Around the World With Jim Rogers,0.0031,0.0019,0.0019,0.0021,0.001,0.0019,0.0012,0.0019,0.001,0.0019,0.0018
+Lyndon Baines Johnson: Late a President of the United States: Memorial Services in the Congress of the United States and tributes in eulogy,0.005,0.0031,0.0029,0.0021,0.0019,0.0021,0.0019,0.0021,0.0019,0.0021,0.0025
+Readings in art history,0.0091,0.006,0.005,0.006,0.005,0.006,0.005,0.006,0.005,0.005,0.0058
+Shakedown: Exposing The Real Jesse Jackson,0.0031,0.001,0.001,0.0021,0.001,0.0019,0.0012,0.001,0.0019,0.001,0.0015
+"The Man Who Saw Through Time (The Scribner Library, Lyceum Editions, No. SL429)",0.0021,0.001,0.001,0.001,0.001,0.001,0.001,0.001,0.001,0.0012,0.0011
+Speaking Out for Animals: True Stories About People Who Rescue Animals,0.005,0.0029,0.0031,0.0019,0.0031,0.0019,0.0031,0.0019,0.0031,0.0019,0.0028
+Message from Forever: A Novel of Aboriginal Wisdom,0.0041,0.0019,0.0021,0.0019,0.001,0.0021,0.0019,0.001,0.0021,0.0019,0.002
+A Prophet In His Own Country: The Triumphs and Defeats of Adlai E. Stevenson,0.006,0.0021,0.0019,0.0031,0.0019,0.0031,0.0019,0.0019,0.0019,0.0019,0.0026
+"Hacking Exposed: Network Security Secrets & Solutions, Third Edition (Hacking Exposed)",0.0019,0.0012,0.001,0.001,0.001,0.0012,0.0019,0.001,0.001,0.0012,0.0012
+Aditi: The Living Arts of India,0.005,0.0021,0.0019,0.0021,0.0019,0.0019,0.0021,0.0019,0.0019,0.0021,0.0023
+Shuffle Up and Deal: The Ultimate No Limit Texas Hold 'em Guide (World Poker Tour),0.0019,0.001,0.0012,0.001,0.001,0.001,0.001,0.001,0.001,0.001,0.0011
+Practical Small Gardens,0.005,0.0019,0.0012,0.0019,0.0019,0.0021,0.001,0.0019,0.001,0.001,0.0019
+A Taste for Love: A Romantic Cookbook for Two,0.005,0.0041,0.0029,0.0031,0.0029,0.0031,0.0029,0.0031,0.0031,0.0029,0.0033
+Venom of Argus,0.0031,0.001,0.0041,0.01,0.011,0.01,0.0119,0.01,0.0112,0.01,0.0082
+The Closing of the American Mind,0.0391,0.0269,0.0229,0.0231,0.1259,0.02,0.0069,0.005,0.0041,0.0031,0.0277
+Fight Fat After Forty,0.0069,0.0029,0.0019,0.0031,0.0031,0.006,0.0029,0.0021,0.0029,0.0031,0.0035
+On the Edge of Cliff,0.0041,0.0019,0.0019,0.0012,0.001,0.0031,0.0019,0.0019,0.0012,0.0019,0.002
+Romans,0.0091,0,0,0,0.0012,0.001,0.001,0.001,0.001,0.0012,0.0016
+Ain't You Glad You Joined the Republicans?: A Short History of the Gop,0.0072,0.0029,0.0031,0.0019,0.0019,0.0019,0.0031,0.0019,0.0021,0.0019,0.0028
+The Professional: Lyndon B. Johnson,0.0041,0.0021,0.0019,0.0019,0.0021,0.0019,0.0021,0.0029,0.0021,0.0019,0.0023
+Don't Know Much About the Bible: Everything You Need to Know About the Good Book but Never Learned,0.015,0.0031,0.0031,0.0029,0.0031,0.0029,0.0021,0.0019,0.0031,0.0029,0.004
+The Power of Nice,0.0031,0.0019,0.0012,0.0019,0.001,0.0012,0.001,0.001,0.0021,0.001,0.0015
+Bringing Out the Best in Your Child: 80 Ways to Focus on Every Kid's Strengths,0.006,0.0031,0.0029,0.0031,0.0029,0.0031,0.0031,0.0029,0.0031,0.0029,0.0033
+Dave Barry's Stay Fit and Healthy Until You're Dead,0.01,0.0031,0.0041,0.0029,0.0031,0.0029,0.0031,0.0029,0.0029,0.0031,0.0038
+Language and Myth,0.0029,0.0019,0.0019,0.0021,0.0019,0.0031,0.0019,0.0019,0.0021,0.0019,0.0022
+Ripken: Cal on Cal,0.006,0.0031,0.0029,0.0041,0.0031,0.0029,0.0031,0.0029,0.015,0.01,0.0053
+German in 32 Lessons (Gimmick Series),0.0029,0.001,0.001,0.001,0.0012,0.001,0.001,0.001,0.0012,0.0019,0.0013
+24 Essential Lessons for Investment Success: Learn the Most Important Investment Techniques from the Founder of Investor's Business Daily,0.011,0.005,0.0041,0.016,0.0041,0.0041,0.0041,0.0041,0.0041,0.005,0.0062
+Many Waters,0.006,0.0031,0.0019,0.0031,0.0019,0.0021,0.0019,0.0021,0.0019,0.0021,0.0026
+The Last Debate:  A Novel of Politics and Journalism,0.011,0.0031,0.0041,0.0029,0.0031,0.0031,0.0041,0.0029,0.0031,0.0019,0.0039
+"Parents in Charge: Setting Healthy, Loving Boundaries for You and Your Child",0.015,0.0219,0.0119,0.0081,0.006,0.0091,0.0079,0.006,0.006,0.006,0.0098
+Prep (Junior Library Guild Selection),0.0031,0.0019,0.0012,0.001,0.001,0.001,0.001,0.0012,0.001,0.001,0.0013
+This Lullaby,0.0031,0.0019,0.001,0.0021,0.001,0.001,0.0012,0.001,0.001,0.0019,0.0015
+"No mean city,: An inquiry into civic greatness,",0.0019,0.001,0.001,0.001,0.001,0.0021,0.001,0.001,0.001,0.0012,0.0012
+ROLLING THUNDER: Jet Combat From WW II to the Gulf War,0.01,0.0069,0.0069,0.006,0.0072,0.006,0.006,0.006,0.0081,0.006,0.0069
+The Everything Cover Letter Book (Everything),0.001,0.0012,0,0,0.001,0,0.001,0.001,0,0.0012,0.0006
+"Norman Mark's Chicago: Walking, bicycling & driving tours of the city",0.006,0.0031,0.0019,0.0031,0.0019,0.0021,0.0029,0.0021,0.0019,0.0021,0.0027
+Believing in Jesus,0.0029,0.0019,0.0012,0.0019,0.001,0.001,0.0021,0.001,0.001,0.0021,0.0016
+Irish Druids and Old Irish Religions,0.005,0.0031,0.0019,0.0021,0.0029,0.0021,0.0019,0.0019,0.0021,0.0019,0.0025
+Eat Smart for a Healthy Heart Cookbook,0.0072,0.005,0.0038,0.0041,0.0041,0.0041,0.0038,0.0031,0.0031,0.0041,0.0042
+I Can Print A to Z (Wipe-off Activity Book--Reusable),0.0019,0.001,0.001,0.0012,0.001,0.001,0.001,0.001,0.0012,0.001,0.0011
+1-2-3 Murals: Simple Murals to Make from Children's Open-Ended Art,0.0129,0.0119,0.01,0.0091,0.01,0.0088,0.0091,0.0091,0.0091,0.0088,0.0099
+A Book of Americans,0.005,0.0029,0.0031,0.0019,0.0031,0.0029,0.0021,0.005,0.0029,0.0021,0.0031
+The Pleasures of Watching Birds,0.006,0.0041,0.0029,0.0031,0.0031,0.0038,0.0031,0.0041,0.0029,0.0041,0.0037
+Young Men and Fire,0.005,0.0029,0.0031,0.0019,0.0031,0.0031,0.0019,0.0029,0.0021,0.0029,0.0029
+The Heritage of British Literature,0.0072,0.0038,0.0041,0.0031,0.0038,0.0031,0.0041,0.0029,0.0031,0.0041,0.0039
+Creating Sanctuary: A New Approach to Gardening in the Washington Metropolitan Area,0.0038,0.0021,0.0019,0.001,0.0021,0.0019,0.001,0.0021,0.001,0.001,0.0018
+Spain (Culture Shock! A Survival Guide to Customs & Etiquette),0.0021,0.0019,0.001,0.001,0.0012,0.001,0.001,0.001,0.0012,0.001,0.0012
+The Metropolitan Museum of Art: The Cloisters; the Building and the Collection of Medieval Art in Fort Tryon Park,0.0079,0.0041,0.0041,0.0029,0.0041,0.0031,0.0029,0.0031,0.0031,0.0029,0.0038
+Second Treatise of Government,0.005,0.0031,0.0019,0.0021,0.0019,0.0031,0.0019,0.0019,0.0021,0.0019,0.0025
+Worldwide Wonders,0.0021,0.001,0.001,0.0012,0.001,0.001,0.001,0.0012,0.001,0.001,0.0012
+Essential History of Art,0.011,0.0091,0.01,0.0091,0.0091,0.0088,0.01,0.0081,0.0091,0.0091,0.0093
+Where to Find It in the Bible: The Ultimate A to Z Resource,0.0079,0.0041,0.0029,0.0031,0.0041,0.0029,0.0031,0.0031,0.0029,0.0041,0.0038
+"The German Panzers, from Mark I to Mark V ""Panther"" - Armor Series 2",0.0081,0.005,0.005,0.0038,0.0038,0.0041,0.005,0.0041,0.0041,0.0041,0.0047
+What Makes a Goya a Goya?,0.001,0.001,0.001,0.001,0.0012,0,0,0.001,0.001,0.001,0.0008
+How to Be Your Dog's Best Friend: A Training Manual for Dog Owners,0.006,0.0021,0.0019,0.0031,0.0019,0.0031,0.0019,0.0021,0.0019,0.0021,0.0026
+Let Freedom Ring: Winning the War of Liberty over Liberalism,0.0038,0.0019,0.0019,0.0021,0.0019,0.0021,0.0019,0.0019,0.0012,0.001,0.002
+When All Hell Breaks Loose,0.0041,0.0019,0.0019,0.0021,0.0019,0.0021,0.001,0.0019,0.0021,0.0019,0.0021
+"Gorgias (The Penguin Classics, L94)",0.001,0,0,0.0012,0.001,0.001,0,0.001,0.001,0.0012,0.0007
+Quiet Times for Couples,0.0031,0.0019,0.001,0.001,0.0019,0.001,0.001,0.001,0.001,0.0021,0.0015
+"Herds of Thunder, Manes of Gold",0.0038,0.0031,0.0031,0.0019,0.0021,0.0029,0.0019,0.0031,0.0019,0.0031,0.0027
+Transitions: Making Sense of Life's Changes,0.0041,0.0019,0.001,0.0021,0.0019,0.001,0.0021,0.0019,0.001,0.0019,0.0019
+Beginner's Guide to Golf,0.0031,0.0019,0.0021,0.0019,0.0019,0.0012,0.0019,0.0019,0.0012,0.001,0.0018
+"I am the fox,",0,0,0.001,0.0012,0,0.001,0.001,0,0,0.001,0.0005
+Secretaries of war and secretaries of the army: Portraits & biographical sketches (CMH pub),0.001,0.0012,0.001,0.001,0.001,0,0.001,0.001,0.001,0.001,0.0009
+A Contest of Faiths: Missionary Women and Pluralism in the America Southwest,0.005,0.0021,0.0019,0.0021,0.0019,0.0019,0.0021,0.0019,0.0021,0.0019,0.0023
+The Single Parent's Money Guide,0.025,0.021,0.031,0.021,0.02,0.0191,0.0191,0.0191,0.0198,0.0191,0.0214
+F2f,0.0021,0.001,0.001,0.001,0.0012,0,0,0.001,0.001,0,0.0008
+Freud's Wishful Dream Book,0.0169,0.0141,0.0131,0.0119,0.0122,0.0119,0.0131,0.0119,0.0131,0.0129,0.0131
+Ingenious Inventions of Domestic Utility,0.005,0.0019,0.0021,0.0019,0.0021,0.001,0.0019,0.0021,0.0019,0.001,0.0021
+Complete Idiot's Guide to Parenting Your Teenager (The Complete Idiot's Guide),0.0021,0.001,0.001,0.001,0.001,0.0012,0.001,0.001,0.001,0.001,0.0011
+The Antiques Care & Repair Handbook,0.006,0.0031,0.0031,0.0019,0.0031,0.0019,0.0031,0.0019,0.0019,0.0021,0.0028
+Great Pyramid: Its Secrets & Mysteries Revealed,0.0041,0.0019,0.0019,0.0012,0.0019,0.001,0.0012,0.0019,0.001,0.0012,0.0017
+Holy War Inc. Inside the Secret World of Osama Bin Laden,0.0029,0.0021,0.0019,0.0019,0.0021,0.001,0.0019,0.0021,0.0029,0.0021,0.0021
+Flavor,0.001,0.001,0.0012,0.001,0,0,0,0.001,0.001,0.0012,0.0007
+Cinderella Cinderella Mini Book: Mini version (Fay's Fairy Tales),0.0031,0.001,0.001,0.001,0.0012,0.001,0.001,0.001,0.001,0.0012,0.0013
+After the Boxes Are Unpacked,0.005,0.0019,0.0021,0.0019,0.0019,0.0021,0.001,0.001,0.0021,0.0019,0.0021
+The Big Book of Gardening Skills,0.005,0.0031,0.0019,0.0019,0.0019,0.0019,0.0019,0.0019,0.0021,0.0019,0.0024
+Eakins,0.0019,0,0.001,0.001,0.001,0.0012,0.001,0.001,0.001,0.001,0.001
+Race relations (Prentice-Hall sociology series),0.001,0,0,0.001,0.001,0.001,0.0012,0.001,0.001,0.001,0.0008
+The Washington ethnic food store guide,0.0229,0.021,0.02,0.0191,0.0191,0.0191,0.0188,0.0191,0.0191,0.02,0.0198
+Reflections in a Glass Eye: Works from the International Center of Photography Collection,0.0088,0.005,0.005,0.0041,0.0041,0.0041,0.0038,0.0041,0.0041,0.005,0.0048
+Getting Started in Powerboating,0.0041,0.0019,0.0021,0.0019,0.0019,0.0012,0.0019,0.0019,0.0021,0.0019,0.0021
+Worth the Fighting For: A Memoir,0.005,0.0029,0.0021,0.0019,0.0021,0.0019,0.0021,0.0019,0.0019,0.0021,0.0024
+Red Dragon Rising: Communist China's Military Threat to America,0.0219,0.0179,0.015,0.015,0.015,0.015,0.0141,0.015,0.015,0.0138,0.0158
+All the Way Home,0.0081,0.005,0.005,0.0041,0.005,0.0038,0.005,0.0041,0.005,0.0041,0.0049
+Totline 123 Rhymes Stories & Songs ~ Open-Ended Language (1-2-3 Series) Ages 3-6,0.001,0.001,0.0012,0.001,0.001,0.001,0.001,0.0012,0.001,0.001,0.001
+"Pineapples, Penguins and Pagodas (Kids' Stuff)",0.0019,0.001,0.0012,0.001,0,0,0.0041,0,0.001,0.001,0.0011
+The Book of Ch'I: Harnessing the Healing Forces of Energy,0.0041,0.0019,0.0021,0.0019,0.0019,0.0021,0.0019,0.0021,0.0019,0.0019,0.0022
+Being Little in Cambridge When Everyone Else Was Big,0.0081,0.0038,0.0029,0.0041,0.0031,0.0038,0.0031,0.0041,0.0029,0.0031,0.0039
+The Hero Within,0.0031,0.0019,0.0019,0.0021,0.001,0.0019,0.0021,0.001,0.001,0.0021,0.0018
+Western,0.0029,0.001,0.001,0.0012,0.001,0.001,0.001,0.001,0.0012,0.001,0.0012
+Numbers (Wipe-Off Activity Books),0.001,0.001,0.001,0.001,0,0,0.001,0.001,0.001,0.001,0.0008
+Baroque Painting (Barron's Art Handbooks: Yellow Series),0.001,0.0012,0.001,0.001,0.001,0.001,0.0012,0.001,0.001,0.001,0.001
+"More Ghosts of Gettysburg: Spirits, Apparitions and Haunted Places of the Battlefield",0.005,0.0029,0.0021,0.0029,0.0021,0.0019,0.0021,0.0019,0.0021,0.0019,0.0025
+Pierre Franey's Cooking In America,0.0191,0.0169,0.0179,0.0162,0.016,0.016,0.016,0.016,0.016,0.016,0.0166
+Greek Art (New Revised Edition),0.0021,0.001,0.001,0.001,0.001,0,0,0.0012,0.001,0.001,0.0009
+Utopia (Crofts Classics),0.0019,0.001,0.0012,0,0,0.001,0.001,0.001,0.0012,0.001,0.0009
+Bias: A CBS Insider Exposes How the Media Distort the News,0.0029,0.0021,0.001,0.001,0.001,0.0021,0.001,0.0019,0.001,0.0012,0.0015
+Plain and Simple: A Woman's Journey to the Amish,0.0029,0.0031,0.0019,0.0021,0.0019,0.001,0.0012,0.0019,0.0019,0.0021,0.002
+Twentieth-century art from the Nelson Aldrich Rockefeller collection,0.0079,0.006,0.005,0.005,0.005,0.005,0.0041,0.0041,0.0041,0.005,0.0051
+7 Simple Steps to Unclutter Your Life,0.0129,0.01,0.01,0.0091,0.01,0.0091,0.0091,0.0088,0.0091,0.0091,0.0097
+Virginia trout streams: A guide to fishing the Blue Ridge watershed,0.0041,0.0029,0.0021,0.0019,0.0021,0.0019,0.0019,0.0021,0.0019,0.0019,0.0023
+How to Fool Fish With Feathers: The Incompleat Guide to Fly-Fishing,0.0021,0.001,0.001,0.001,0.001,0.0012,0.001,0.001,0.001,0.001,0.0011
+Tom Brown's Schooldays (Oxford World's Classics),0.0012,0.001,0.001,0.001,0.001,0.0012,0.001,0.001,0.001,0.001,0.001
+Metamorphoses (Oxford World's Classics),0.0019,0.0012,0.001,0.001,0.001,0.001,0,0,0.001,0.001,0.0009
+Germinal (Oxford World's Classics),0.001,0.001,0.001,0.0012,0.001,0.001,0.001,0.001,0.0012,0.001,0.001
+The California Coastal Resource Guide,0.0238,0.021,0.02,0.02,0.0191,0.02,0.0188,0.0191,0.0222,0.0229,0.0207
+Tools and Gadgets (Historic Communities (Paperback)),0.001,0.0012,0.001,0,0.001,0,0,0.001,0,0,0.0005
+Matilda,0.0021,0.001,0.001,0.001,0.0012,0.001,0.001,0,0.001,0.001,0.001
+The Ultimate Book Of Paint Effects,0.0038,0.0021,0.0019,0.0019,0.0021,0.0019,0.0021,0.0019,0.0019,0.0021,0.0022
+Where No One Has Gone Before: A History in Pictures (Star Trek),0.0019,0.0012,0.001,0.001,0.001,0,0,0,0,0,0.0006
+Superdog: Raising the Perfect Canine Companion,0.005,0.0031,0.0029,0.0021,0.0029,0.0021,0.0029,0.0021,0.0029,0.0021,0.0028
+Football America: Celebrating Our National Passion,0.0062,0.0029,0.0021,0.0019,0.0031,0.0029,0.0021,0.0019,0.0031,0.0019,0.0028
+In Our Own Image: Building an Artificial Person,0.0081,0.005,0.005,0.0041,0.0041,0.0038,0.0041,0.0041,0.0041,0.0041,0.0047
+Death and Deconstruction,0.0038,0.0021,0.0019,0.001,0.001,0.0019,0.0019,0.0012,0.0019,0.0019,0.0019
+1990 BEST-RECIPES YEARBOOK,0.0041,0.001,0.0012,0.0019,0.001,0.0021,0.001,0.0029,0.0021,0.001,0.0018
+People of the High Plateau,0.0029,0.0021,0.0019,0.0021,0.0019,0.0019,0.0021,0.001,0.001,0.0021,0.0019
+"The Education of the Heart: Readings and Sources for Care of the Soul, Soul Mates, and The Re-Enchantment of Everyday Life",0.0169,0.016,0.0141,0.0141,0.0141,0.0138,0.0131,0.0129,0.0129,0.0141,0.0142
+Legends: Conversations With Baseball Greats,0.0029,0.0012,0.0019,0.001,0.001,0.0012,0.001,0.001,0.001,0.0021,0.0014
+Out to Canaan (Book 4 of the Mitford Years),0.001,0.001,0.001,0.0012,0.001,0.001,0.001,0.001,0.0012,0.001,0.001
+Management and Organizational Behavior,0.0029,0.0021,0.0019,0.001,0.0021,0.0019,0.001,0.0021,0.0019,0.0019,0.0019
+"What Every Woman Needs to Know about Menopause: The Years Before, During, and After",0.0091,0.005,0.0041,0.0038,0.0031,0.0041,0.0041,0.0038,0.0031,0.0031,0.0043
+Garfield Book of Cat Names,0.0029,0.0021,0.0019,0.0019,0.0012,0.0019,0.0019,0.0012,0.0019,0.0019,0.0019
+Introductory clinical pharmacology,0.0041,0.0019,0.0012,0.001,0.0019,0.0021,0.001,0.0019,0.0021,0.0019,0.0019
+"Decorating with Wreaths, Garlands, Topiaries & Bouquets",0.0029,0.0021,0.0019,0.0021,0.0019,0.0019,0.0012,0.001,0.0019,0.0021,0.0019
+Prince Charles,0.0031,0.001,0.001,0.001,0.001,0.001,0.001,0.0021,0.001,0.001,0.0013
+Laura Ashley Color: Using Color to Decorate Your Home,0.0069,0.0062,0.0048,0.0041,0.005,0.005,0.0041,0.005,0.0041,0.005,0.005
+"Shark Tank: Greed, Politics, and the Collapse of Finley Kumble, One of America's Largest Law Firms",0.0038,0.0021,0.0019,0.0021,0.001,0.001,0.0031,0.0019,0.0021,0.0019,0.0021
+Antiques as an Investment,0.005,0.0029,0.0021,0.0029,0.0021,0.0029,0.0021,0.0019,0.0031,0.0019,0.0027
+"The Real War on Crime: Report of the National Criminal Justice Commission, The",0.015,0.0279,0.0479,0.0331,0.0219,0.0191,0.016,0.016,0.016,0.0169,0.023
+Ernie And His Merry Monsters (Sesame Street Good-Night Stories),0.0041,0.0019,0.0021,0.0019,0.0021,0.0019,0.0019,0.0021,0.0019,0.0021,0.0022
+"The Quarterlifer's Companion : How to Get on the Right Career Path, Control Your Finances, and Find the Support Network You Need to Thrive",0.0079,0.0038,0.0038,0.0041,0.0041,0.0041,0.0041,0.0038,0.0041,0.0041,0.0044
+Leaving Town Alive: Confessions of an Arts Warrior,0.006,0.0031,0.0031,0.0029,0.0031,0.0029,0.0021,0.0019,0.0031,0.0029,0.0031
+A Show of Hands: Say It in Sign Language,0.01,0.005,0.005,0.006,0.005,0.005,0.005,0.005,0.005,0.006,0.0057
+Silent Sons: A Book for and About Men,0.0081,0.006,0.006,0.005,0.006,0.005,0.0062,0.005,0.005,0.005,0.0057
+Walker Evans: A Biography,0.006,0.005,0.0041,0.0041,0.0041,0.0038,0.0038,0.0041,0.0041,0.0041,0.0043
+"Meteorology today: An introduction to weather, climate, and the environment",0.0069,0.0062,0.0038,0.0031,0.0041,0.0029,0.0031,0.0041,0.0029,0.0041,0.0041
+"Contest for a Capital: George Washington, Robert Morris, and Congress, 1783-1791, Contenders : Dramatized Events of America's Founding Years",0.0081,0.015,0.011,0.0041,0.0031,0.0029,0.0031,0.0031,0.0029,0.0031,0.0056
+Americas Glorious Quilts,0.005,0.0019,0.0021,0.0019,0.001,0.0012,0.0019,0.0019,0.0012,0.001,0.0019
+Cars 1886-1930,0.0019,0.0012,0.001,0.001,0,0,0.001,0,0.001,0.0012,0.0008
+Dr Jekyll and Mr Hyde and Weir of Hermiston (Oxford World's Classics),0.0021,0.0019,0.001,0.0012,0.001,0.001,0.001,0.0012,0.001,0.001,0.0012
+Spirited Americans: A Commentary on America's Optimists-From the Puritans to the Cybr-Century,0.0019,0.001,0,0,0,0.001,0.001,0.0012,0.001,0.001,0.0008
+What Went Wrong?: Western Impact and Middle Eastern Response,0.005,0.0021,0.0019,0.001,0.001,0.0019,0.0021,0.0019,0.001,0.0021,0.002
+Lessons from the Fairway: Inspirational Stories from the Fairway for the Yound and Old Alike!,0.0019,0.001,0.0012,0.001,0.001,0.001,0.001,0.0012,0.001,0.001,0.0011
+Your Sacred Self,0.005,0.0031,0.0019,0.0031,0.0019,0.0031,0.0019,0.0029,0.0021,0.0029,0.0028
+The World's Whales: The Complete Illustrated Guide,0.025,0.0191,0.0188,0.0181,0.0179,0.0181,0.0179,0.0181,0.0179,0.0181,0.0189
+Taming and Training Conures,0.0029,0.0019,0.001,0.0021,0.001,0.001,0.0021,0.001,0.0019,0.001,0.0016
+In the Footsteps of Gandhi: Conversations With Spiritual Social Activists,0.006,0.0031,0.0019,0.006,0.0021,0.0019,0.0021,0.0019,0.0019,0.0021,0.0029
+"Is Sex Necessary?: Or, Why You Feel the Way You Do",0.0169,0.011,0.0091,0.01,0.01,0.01,0.0091,0.0088,0.0088,0.0091,0.0103
+"Dark windows,",0.001,0,0,0.001,0.001,0.001,0.001,0,0.0012,0.001,0.0007
+The bedside book of Martin Buxbaum,0.0038,0.0031,0.0019,0.0021,0.0029,0.0041,0.0031,0.0029,0.0031,0.0031,0.003
+The Winemaker's Year: Four Seasons in Bordeaux,0.006,0.0031,0.0031,0.0029,0.0031,0.0029,0.0031,0.0019,0.0019,0.0029,0.0031
+Balancing Acts,0.0031,0.0029,0.0021,0.001,0.0021,0.0019,0.0019,0.0021,0.0019,0.0021,0.0021
+Sacred Stories: A Celebration of the Power of Story to Transform and Heal,0.0181,0.0119,0.011,0.011,0.0112,0.011,0.01,0.01,0.011,0.011,0.0116
+Zen Lessons: The Art of Leadership,0.0088,0.005,0.005,0.0041,0.0041,0.005,0.0041,0.0041,0.0038,0.005,0.0049
+Stencil Source Book 2: Over 200 New Designs,0.006,0.0031,0.0031,0.0029,0.0031,0.0029,0.0031,0.0029,0.0029,0.0031,0.0033
+Cities Then & Now,0.0062,0.0029,0.0031,0.0019,0.0021,0.0019,0.0021,0.0019,0.0021,0.0019,0.0026
+Gardens of the World: The Art and Practice of Gardening,0.0079,0.005,0.005,0.005,0.005,0.005,0.005,0.005,0.005,0.005,0.0053
+Brass,0.0021,0.0019,0.001,0.0021,0.001,0.001,0.0019,0.0012,0.001,0.0019,0.0015
+REASONABLE DOUBTS: The O.J. Simpson Case and the Criminal Justice System,0.0072,0.0041,0.0038,0.0041,0.0031,0.0041,0.0029,0.0041,0.0029,0.006,0.0042
+The Lives of the Muses: Nine Women & the Artists They Inspired,0.0062,0.0038,0.0041,0.0031,0.0038,0.0031,0.0031,0.0029,0.0029,0.0031,0.0036
+"Frederic Remington: Paintings, Drawings, and Sculpture in the Amon Carter Museum and the Sid W. Richardson Foundation Collections",0.0062,0.0038,0.0041,0.0031,0.0029,0.0041,0.0031,0.0041,0.0029,0.0041,0.0038
+The Civil War Trust's Official Guide to the Civil War Discovery Trail,0.035,0.0222,0.01,0.0088,0.0091,0.016,0.0081,0.006,0.005,0.005,0.0125
+Pilgrim: A Novel,0.0081,0.005,0.0041,0.0041,0.005,0.005,0.0048,0.005,0.0041,0.0041,0.0049
+Soup Suppers: More Than 100 Main-Course Soups and 40 Accompaniments,0.006,0.0031,0.0029,0.0031,0.0041,0.0019,0.0019,0.0021,0.001,0.001,0.0027
+The Big Bands Trivia Quiz Book,0.021,0.0172,0.015,0.015,0.0148,0.0162,0.015,0.0148,0.015,0.0141,0.0158
+The American Style of Foreign Policy: Cultural Politics and Foreign Affairs,0.005,0.0031,0.0019,0.0019,0.0021,0.0019,0.0021,0.0019,0.0021,0.0019,0.0024
+D.H. Lawrence: The Story of a Marriage,0.0041,0.0019,0.0019,0.0021,0.0019,0.0021,0.001,0.001,0.0021,0.0019,0.002
+The Illustrated Almanac of Historical Facts: From the Dawn of the Christian Era to the New World Order,0.0069,0.0041,0.0029,0.0031,0.0031,0.0029,0.0031,0.0031,0.0029,0.0031,0.0035
+Notable American Women: A Biographical Dictionary: Notable American Women: The Modern Period: A Biographical Dictionary (Notable American Women) (Volume 4),0.0019,0.0019,0.0012,0.001,0.001,0.001,0.0012,0.001,0.001,0.001,0.0012
+Ashes of Glory: Richmond at War,0.0091,0.006,0.006,0.0062,0.006,0.006,0.006,0.006,0.006,0.0062,0.0064
+Orthopedic Disorders (Mosby's Clinical Nursing Series),0.0021,0.001,0.001,0.001,0.0012,0.001,0.001,0,0,0,0.0008
+"God's Masterwork: A Concerto in Sixty-Six Movements : Ezra Through Daniel (Swindoll Bible Study Guides , Part 2)",0.0012,0.001,0.001,0.001,0.0012,0.0019,0.0019,0.0012,0.001,0.001,0.0012
+"In Buddha's Kitchen : Cooking, Being Cooked, and Other Adventures at a Meditation Center",0.0062,0.0029,0.0021,0.0029,0.0021,0.0019,0.0029,0.0021,0.0019,0.0021,0.0027
+Crossing Over: The Stories Behind the Stories,0.0091,0.006,0.006,0.006,0.006,0.0062,0.005,0.006,0.005,0.006,0.0061
+Business Law: Text and Cases,0.0031,0.0019,0.0019,0.0012,0.0019,0.001,0.0012,0.001,0.0019,0.001,0.0016
+Sea Otters: A Natural History and Guide,0.0181,0.016,0.0129,0.0119,0.0129,0.0131,0.0131,0.0119,0.0129,0.0131,0.0136
+Becoming satisfied: A man's guide to sexual fulfillment (A Spectrum book),0.001,0.001,0.001,0.0012,0.001,0.001,0.001,0.001,0.0012,0.001,0.001
+Marketing,0.0019,0.001,0.001,0.0012,0.001,0.001,0.001,0.001,0.0012,0.001,0.0011
+The New Yorker Cartoon Album 1975-1985,0.0019,0.001,0.001,0.001,0,0,0.001,0.001,0.001,0.001,0.0009
+We Are America,0.0181,0.016,0.0138,0.0131,0.0141,0.0129,0.0141,0.0129,0.0141,0.0141,0.0143
+Dr. Nancy Snyderman's Guide to Health: For Women over Forty,0.0041,0.0031,0.0019,0.0019,0.0021,0.001,0.0021,0.0019,0.0019,0.0021,0.0022
+Unravelling,0.0019,0.0012,0.001,0.001,0.001,0.001,0.0012,0.001,0.001,0.001,0.0011
+An Obedient Father,0.0031,0.0019,0.0019,0.0021,0.001,0.001,0.0021,0.001,0.0019,0.0021,0.0018
+Like the Red Panda,0.0041,0.0019,0.001,0.0021,0.0019,0.001,0.0021,0.001,0.0019,0.001,0.0018
+East Asia: From Chinese Predominance to the Rise of the Pacific Rim,0.0031,0.0019,0.0021,0.001,0.001,0.0021,0.0019,0.0019,0.0021,0.0019,0.0019
+Hamlet's Mother and Other Women,0.0088,0.006,0.0062,0.006,0.006,0.006,0.005,0.0081,0.005,0.006,0.0063
+The Book of Intimate Grammar,0.005,0.0031,0.0019,0.0031,0.0019,0.0031,0.0019,0.0021,0.0019,0.0021,0.0026
+Sunset Recipe Annual 1995,0.0038,0.0019,0.0031,0.0019,0.0031,0.0019,0.0019,0.0021,0.0019,0.0021,0.0024
+Ritalin Nation: Rapid-Fire Culture and the Transformation of Human Consciousness,0.0091,0.0029,0.0031,0.0029,0.0031,0.0019,0.0031,0.0031,0.0019,0.0031,0.0034
+"Ashes to Ashes: America's Hundred-Year Cigarette War, the Public Health, and the Unabashed Triumph of Philip Morris",0.006,0.0041,0.0029,0.0031,0.0041,0.0029,0.0031,0.0031,0.0029,0.0031,0.0035
+"Recyclopedia: Games, Science Equipment, and Crafts from Recycled Materials",0.0041,0.0029,0.0021,0.0019,0.0019,0.0021,0.0019,0.0021,0.0019,0.0021,0.0023
+The Survival Factor,0.0038,0.0031,0.0019,0.0031,0.0019,0.0021,0.0019,0.0021,0.0019,0.0031,0.0025
+First and last love,0.0079,0.0062,0.005,0.006,0.005,0.006,0.005,0.005,0.005,0.005,0.0056
+Greek Mythology (An Encyclopedia Of Myth And Legend),0.0021,0.0019,0.001,0.0021,0.001,0.001,0.001,0.001,0.0012,0.0019,0.0014
+World of Our Fathers: The Journey of The Eastern European Jews to America,0.0269,0.0272,0.0229,0.0219,0.0222,0.0229,0.0219,0.0222,0.026,0.0219,0.0236
+Dance Of A Fallen Monk: The Twists And Turns Of A Spiritual Life,0.015,0.0122,0.011,0.011,0.01,0.011,0.011,0.011,0.01,0.011,0.0113
+Intervention and Reflection: Basic Issues in Medical Ethics (Philosophy),0.0012,0,0,0.001,0.001,0.0012,0,0,0.001,0.001,0.0006
+Politics of Latin American Development,0.006,0.0031,0.0029,0.0031,0.0041,0.0041,0.0038,0.0041,0.0041,0.0041,0.0039
+Ronald Reagan: His Life In Pictures,0.005,0.0029,0.0021,0.0019,0.0031,0.0019,0.0031,0.0019,0.0021,0.0019,0.0026
+Custer Story,0.0081,0.0069,0.0072,0.0069,0.006,0.0062,0.0069,0.006,0.0072,0.0069,0.0068
+150 Years of Photo Journalism,0.0041,0.0029,0.0031,0.0031,0.0029,0.0021,0.0029,0.0031,0.0019,0.0031,0.0029
+Deadlock: The Inside Story of America's Closest Election,0.0031,0.0019,0.0019,0.0021,0.0019,0.0021,0.0019,0.001,0.0012,0.0019,0.0019
+Truman,0.0019,0.0012,0.001,0.001,0,0,0,0.001,0.001,0.001,0.0008
+Crafts of Israel,0.0031,0.0019,0.0012,0.001,0.0019,0.0021,0.0019,0.0019,0.0012,0.001,0.0017
+"Understanding the Chesapeake, a Layman's Guide,",0.001,0.0012,0.001,0.001,0.001,0.0012,0.001,0.001,0.001,0.001,0.001
+Alistair Cooke's America,0.0222,0.02,0.0188,0.02,0.0181,0.0179,0.0191,0.0179,0.0181,0.0191,0.0191
+The Purpose Driven Life Journal,0.006,0.0041,0.0038,0.0041,0.0041,0.0029,0.0041,0.0031,0.0031,0.0029,0.0038
+Going Bridal: How to Get Married Without Losing Your Mind,0.005,0.0041,0.0038,0.0031,0.0029,0.0031,0.0031,0.0029,0.0031,0.0031,0.0034
+Incidents in the Life of a Slave Girl,0.0069,0.006,0.005,0.0041,0.0041,0.0041,0.0041,0.005,0.0041,0.005,0.0048
+Human Resource Management,0.005,0.0029,0.0021,0.0029,0.0021,0.0019,0.0029,0.0021,0.0019,0.0031,0.0027
+Plumage,0.0019,0.001,0.0012,0.001,0.001,0.001,0,0,0.001,0,0.0008
+The Fundamentals of Play: A Novel,0.0069,0.0072,0.005,0.006,0.0041,0.0038,0.0041,0.0041,0.0041,0.0041,0.0049
+Improvised Europeans: American Literary Expatriates In London,0.0029,0.0021,0.001,0.0021,0.0019,0.0019,0.0012,0.0019,0.0019,0.0021,0.0019
+Forever Beautiful With Rex: Makeup Strategies for the Rest of Your Life,0.015,0.0129,0.0131,0.0119,0.0119,0.0122,0.0119,0.0119,0.0122,0.0129,0.0126
+"Best Places to Stay in the Caribbean, Sixth Edition",0.0081,0.006,0.005,0.0041,0.0041,0.005,0.0038,0.0038,0.005,0.005,0.005
+Solve Your Child's Sleep Problems,0.005,0.0031,0.0019,0.0019,0.0019,0.0019,0.0021,0.0029,0.0021,0.0029,0.0026
+All Japan: The Catalogue of Everything Japanese,0.006,0.0012,0.0019,0.0019,0.0021,0.001,0.001,0.0021,0.001,0.0019,0.002
+The World Of Biblical Literature,0.005,0.0041,0.0031,0.0038,0.0031,0.0031,0.0029,0.0031,0.0029,0.0041,0.0035
+Geography and Development: A World Regional Approach,0.005,0.0031,0.0031,0.0029,0.0031,0.0019,0.0031,0.0029,0.0031,0.0019,0.003
+Dissection of the Fetal Pig,0.0041,0.0019,0.0021,0.0019,0.001,0.001,0.0019,0.0021,0.0019,0.0019,0.002
+Search for Spring,0.0041,0.0019,0.0021,0.001,0.001,0.0021,0.0019,0.0019,0.0021,0.001,0.0019
+Death bed: A detective story,0.0081,0.006,0.006,0.006,0.0062,0.006,0.006,0.006,0.006,0.0062,0.0063
+Caring and Coping When Your Loved One is Seriously Ill,0.0088,0.0062,0.0041,0.0041,0.005,0.005,0.0038,0.005,0.0041,0.0041,0.005
+Voice Lessons: On Becoming a (Woman) Writer,0.006,0.0031,0.0029,0.0021,0.0029,0.0021,0.0029,0.0021,0.0019,0.0021,0.0028
+The New Face of Terrorism: Threats from Weapons of Mass Destruction,0.005,0.0029,0.0031,0.0019,0.0031,0.0019,0.0031,0.0019,0.0031,0.0019,0.0028
+"The Rich Are Different: A Priceless Treasury of Quotations and Anecdotes About the Affluent, the Posh, a nd the Just Plain Loaded",0.005,0.0031,0.0029,0.0021,0.0019,0.0021,0.0029,0.0021,0.0019,0.0019,0.0026
+Mensa Presents Number Puzzles for Math Geniuses: 200 Fiendish and Intriguing Mind Games,0.0072,0.0029,0.0029,0.0031,0.0029,0.0031,0.0029,0.0031,0.0019,0.0019,0.0032
+Nine Innings,0.0031,0.001,0.0019,0.001,0.0012,0.001,0.001,0.001,0.0021,0.001,0.0014
+Real Lace: America's Irish Rich,0.006,0.0041,0.0041,0.0029,0.0041,0.0041,0.0031,0.0038,0.0041,0.0041,0.004
+Call To Home: African Americans Reclaim The Rural South,0.0091,0.005,0.0038,0.0041,0.0041,0.0041,0.0038,0.0031,0.0031,0.0041,0.0044
+The Ordinary Seaman,0.0029,0.001,0.001,0.001,0.001,0.0012,0.0019,0.001,0.0019,0.0012,0.0014
+"Taking on the World: Joseph and Stewart Alsop, Guardians of the American Century",0.005,0.0029,0.0031,0.0031,0.0019,0.0021,0.0019,0.0021,0.0041,0.0029,0.0029
+"Born to Rebel: Birth Order, Family Dynamics, and Creative Lives",0.005,0.0041,0.0031,0.0029,0.0031,0.0029,0.0031,0.0029,0.0031,0.0031,0.0033
+The Monitor Chronicles : One Sailor's Account : Today's Campaign to Recover the Civil War Wreck,0.0041,0.0031,0.0019,0.0021,0.0029,0.0021,0.0019,0.0019,0.0021,0.0029,0.0025
+Fire in My Soul,0.006,0.0031,0.0041,0.0029,0.0031,0.0029,0.0029,0.0031,0.0029,0.0041,0.0035
+Maryland Wits and Baltimore Bards: A Literary History with Notes on Washington Writers (Maryland Paperback Bookshelf),0.0019,0.0012,0.0019,0.0019,0.0019,0.0019,0.0021,0.001,0.001,0.0031,0.0018
+War Babies,0.0019,0.001,0.0021,0.001,0.001,0.001,0.0021,0.001,0.001,0.001,0.0013
+How to Plant and Grow Annuals (How to Plant and Grow Series),0.0012,0.0019,0.0019,0.0021,0.0019,0.001,0.0021,0.0019,0.0019,0.0012,0.0017
+A Skeleton in God's Closet,0.0041,0.0019,0.001,0.001,0.0019,0.0021,0.001,0.001,0.0021,0.0019,0.0018
+Words & Quilts: A Selection of Quilt Poems,0.005,0.0029,0.0021,0.0029,0.0021,0.0019,0.0021,0.0019,0.0031,0.0019,0.0026
+Home beermaking: The complete beginner's guidebook,0.0041,0.0019,0.001,0.001,0.0019,0.0021,0.001,0.0019,0.001,0.001,0.0017
+"We Should Be So Lucky : Love, Sex, Food, and Fun After Forty from the Diva of QVC",0.005,0.0029,0.0021,0.0029,0.0041,0.0031,0.0019,0.0019,0.0019,0.0019,0.0028
+"The Order of Things: Hierarchies, Structures, and Pecking Orders",0.0041,0.0021,0.0019,0.001,0.001,0.001,0.0019,0.0021,0.0019,0.0021,0.0019
+Dining with the Duchess: Making Everyday Meals a Special Occasion,0.0041,0.0021,0.0019,0.0021,0.0019,0.0019,0.0021,0.0019,0.0021,0.0019,0.0022
+Introductory Linear Algebra With Applications,0.005,0.0019,0.0019,0.0019,0.0031,0.0019,0.0021,0.0029,0.0021,0.0019,0.0025
+The search for Peking man,0.0141,0.011,0.01,0.01,0.0091,0.01,0.01,0.0088,0.01,0.01,0.0103
+Intimate Matters: A History of Sexuality in America,0.02,0.0169,0.0172,0.016,0.02,0.021,0.0348,0.031,0.0191,0.0169,0.0213
+Hollywood vs. America: The Explosive Bestseller that Shows How-and Why-the Entertainment Industry Has Broken Faith With Its Audience,0.0081,0.0019,0.0021,0.0019,0.0021,0.0019,0.0021,0.0019,0.0019,0.0021,0.0026
+Shaken Not Stirred,0.0038,0.0012,0.001,0.001,0.0012,0.001,0.001,0.001,0.0021,0.001,0.0014
+Henry Adams,0.0019,0.001,0.001,0.001,0.001,0.0012,0.001,0,0.001,0.001,0.001
+A Hole in the Earth,0.005,0.0029,0.0021,0.0019,0.0031,0.0019,0.0021,0.0029,0.0031,0.0029,0.0028
+You Say You Want a Revolution : A Story of Information Age Politics,0.0081,0.005,0.0029,0.0041,0.0031,0.0031,0.0038,0.0031,0.0041,0.0029,0.004
+Kayaking: Whitewater and Touring Basics (A Trailside Guide),0.0021,0.001,0.001,0.001,0,0,0,0.001,0.001,0.001,0.0008
+My Country: The Story of Modern Israel,0.0041,0.0019,0.0012,0.0019,0.0019,0.0012,0.0019,0.0019,0.0012,0.0019,0.0019
+Praying God's Will For Your Life: A Prayerful Walk To Spiritual Well Being,0.0069,0.0031,0.0031,0.0029,0.0031,0.0029,0.0031,0.0031,0.0038,0.0031,0.0035
+The Good Black,0.0041,0.0019,0.001,0.0019,0.0012,0.0019,0.001,0.0021,0.0019,0.001,0.0018
+"An Inquiry Concerning Human Understanding: With a Supplement, An Abstract of a Treatise of Human Nature",0.006,0.0031,0.0031,0.0029,0.0021,0.0029,0.0031,0.0019,0.0021,0.0029,0.003
+The Unfinished Constitution: Philosophy and Constitutional Practice,0.0041,0.0031,0.0029,0.0031,0.0019,0.0031,0.0029,0.0021,0.0029,0.0021,0.0028
+"PARKER'S WINE BUYER'S GUIDE, 5TH EDITION : Complete, Easy-to-Use Reference on Recent Vintages, Prices, and Ratings for More Than 8,000 Wines from All the Major Wine Regions",0.005,0.0029,0.0031,0.0031,0.0019,0.0031,0.0029,0.0019,0.0031,0.0031,0.003
+Artificial Intelligence: How Machines Think,0.0038,0.0021,0.0019,0.001,0.0021,0.0019,0.001,0.0021,0.0019,0.001,0.0019
+Communications and Networking for the IBM PC and Compatibles,0.006,0.0031,0.0031,0.0029,0.0031,0.0029,0.0021,0.0029,0.0031,0.0029,0.0032
+The Macmillan Visual Desk Reference,0.005,0.0029,0.0031,0.0019,0.0021,0.0029,0.0031,0.0031,0.0029,0.0031,0.003
+The standard wine cook book,0.02,0.016,0.016,0.015,0.016,0.016,0.015,0.015,0.015,0.015,0.0159
+"Tales Of Passion, Tales Of Woe",0.0029,0.0021,0.0019,0.001,0.0021,0.001,0.001,0.0021,0.001,0.0019,0.0017
+Keeping Life Simple: 380 Tips & Ideas,0.005,0.0031,0.0029,0.0031,0.0019,0.0031,0.0019,0.0031,0.0019,0.0021,0.0028
+HOLLYWOOD HUSBANDS,0.0031,0.001,0.0021,0.001,0.001,0.001,0.0012,0.001,0.001,0.001,0.0013
+Raise Heaven and Earth: The Story of Martin Marietta People and Their Pioneering Achievements,0.005,0.0031,0.0019,0.0031,0.0019,0.0021,0.0029,0.0021,0.0019,0.0031,0.0027
+"Learning disabilities, systemizing teaching and service delivery",0.0041,0.0019,0.0021,0.0019,0.001,0.0021,0.001,0.0019,0.0021,0.001,0.0019
+The Testament of Light,0.0191,0.0131,0.0129,0.0131,0.0131,0.0119,0.011,0.0112,0.011,0.011,0.0127
+The American Geriatrics Society's Complete Guide to Aging and Health: How We Age*Caring for Parents*Long-Term Care Choices*Wise Health Care Decisions* ... Care Financing*Analysis of Common Ailments,0.0322,0.02,0.0169,0.0172,0.0169,0.0172,0.016,0.0169,0.0181,0.0169,0.0188
+"Potter Needlework Library, The: Essentials of Sewing, Volume 2",0.03,0.02,0.0172,0.0169,0.0172,0.016,0.0169,0.0172,0.016,0.0169,0.0184
+Julius Caesar (Cambridge School Shakespeare),0.0069,0.005,0.005,0.005,0.0041,0.0038,0.0038,0.0038,0.0038,0.005,0.0046
+Men and Angels,0.011,0.0081,0.0081,0.0069,0.0072,0.0069,0.0069,0.0072,0.0069,0.0072,0.0076
+Debrett's book of royal children,0.03,0.0229,0.021,0.0219,0.0219,0.021,0.02,0.02,0.021,0.02,0.022
+"Rock, Roll & Remember",0.0041,0.0029,0.0021,0.0019,0.0031,0.0019,0.0021,0.0019,0.0019,0.0021,0.0024
+"Inside the House: An irreverent guided tour through the House of Representatives, from the days of  Adam Clayton Powell to those of Peter Rodino",0.0038,0.0031,0.0019,0.0019,0.0019,0.0031,0.0019,0.0021,0.0019,0.0031,0.0025
+Everyone's Money Book,0.0162,0.0129,0.0131,0.0129,0.0131,0.0119,0.0541,0.0579,0.0579,0.0591,0.0309
+"The United Lutheran Church in America, 1918-1962",0.0072,0.005,0.0041,0.0031,0.0029,0.0038,0.0041,0.0041,0.0031,0.0041,0.0042
+God's Psychiatry: Healing for the Troubled Heart and Spirit,0.037,0.0281,0.025,0.0241,0.025,0.0248,0.0241,0.0241,0.025,0.025,0.0262
+In the Shadow of F.D.R.: From Harry Truman to Bill Clinton,0.0179,0.0131,0.01,0.01,0.01,0.01,0.01,0.01,0.0091,0.01,0.011
+The Nominative Case,0.0131,0.011,0.0091,0.0091,0.0091,0.0091,0.0091,0.0091,0.0091,0.01,0.0098
+The Dannon Book of Yogurt,0.0098,0.0091,0.0072,0.0079,0.0072,0.0069,0.0072,0.0069,0.0069,0.0069,0.0076
+TERRITORIES OF THE VOICE,0.0169,0.01,0.0088,0.0091,0.0081,0.0081,0.0079,0.0081,0.0079,0.0079,0.0093
+The sports factory: An investigation into college sports,0.01,0.0072,0.0069,0.0069,0.0072,0.006,0.0072,0.0069,0.006,0.006,0.007
+Intelligent Business Alliances: How to Profit Using Today's Most Important Strategic Tool,0.015,0.0091,0.0081,0.0081,0.0079,0.0069,0.0081,0.0079,0.0081,0.0091,0.0088
+Porterhouse Blue,0.011,0.0091,0.0069,0.0072,0.0069,0.0072,0.006,0.006,0.006,0.0069,0.0073
+Paradigms: The Business of Discovering the Future,0.01,0.0081,0.0069,0.006,0.005,0.005,0.0529,0.0091,0.0031,0.0019,0.0108
+Cushions & Covers: A Step-By-Step Guide to Creative Soft Furnishings (Reader's Digest: Practical Home Decorating),0.005,0.0021,0.0019,0.0019,0.0021,0.0019,0.001,0.0019,0.0031,0.0019,0.0023
+We Interrupt This Broadcast: Relive the Events That Stopped Our Lives...from the Hindenburg to the Death of Princess Diana (book with 2 audio CDs),0.005,0.0041,0.0019,0.0021,0.0019,0.0031,0.0019,0.0021,0.0019,0.0021,0.0026
+Changing Places: Rebuilding Community in the Age of Sprawl,0.0081,0.0038,0.0031,0.0029,0.0029,0.0021,0.0029,0.0031,0.0031,0.0019,0.0034
+Anne Frank : The Biography,0.015,0.0041,0.0041,0.005,0.0029,0.0041,0.0031,0.0029,0.0041,0.0041,0.0049
+Muhammad: The messenger of God,0.006,0.0031,0.0031,0.0038,0.0031,0.0031,0.0041,0.0029,0.0041,0.0031,0.0036
+The Elegant Onion: The Art of Allium Cookery,0.005,0.0029,0.0021,0.0019,0.0031,0.0019,0.0019,0.001,0.0012,0.0019,0.0023
+Awakening Corporate Soul: Four Paths to Unleash the Power of People at Work,0.0091,0.005,0.005,0.006,0.006,0.0072,0.0069,0.005,0.0041,0.0038,0.0058
+"WW II Air War : The Men, the Machines, the Missions",0.0069,0.0041,0.0029,0.0041,0.0031,0.0029,0.0031,0.0029,0.0031,0.0031,0.0036
+The Puzzles of Amish Life (People's Place Book No. 10),0.0019,0.0021,0.001,0.001,0.001,0.0021,0.001,0.0019,0.0012,0.001,0.0014
+A Reason For Hope: Gaining Strength for Your Fight Against Cancer,0.0069,0.0031,0.0031,0.0029,0.0031,0.0029,0.0021,0.0029,0.0031,0.0169,0.0047
+Exploring the Labyrinth: Making Sense of the New Spirituality,0.011,0.0041,0.0031,0.0029,0.0031,0.0029,0.0031,0.0031,0.0019,0.0021,0.0037
+Ending the Homework Hassle,0.006,0.0029,0.0021,0.0029,0.0021,0.0019,0.0021,0.0019,0.0021,0.0019,0.0026
+The Race for the Triple Crown,0.005,0.0031,0.0019,0.0019,0.0021,0.0029,0.0031,0.0029,0.0031,0.0031,0.0029
+Lewis and Clark: Doctors in the Wilderness,0.0069,0.0041,0.0031,0.0029,0.0041,0.0031,0.0029,0.0031,0.0029,0.0031,0.0036
+The Best Intentions,0.0041,0.0031,0.0019,0.0019,0.0019,0.0019,0.0031,0.0019,0.0021,0.0029,0.0025
+OFFICIAL GUIDE TO THE SMITHSONIAN,0.005,0.0031,0.0029,0.0021,0.0029,0.0031,0.0029,0.0031,0.0031,0.0029,0.0031
+Dale Earnhardt: 1951-2001,0.0029,0.001,0.0012,0.001,0.001,0.001,0.0012,0.001,0.001,0.001,0.0012
+"The Insiders' Guide to Civil War Sites in the Eastern Theater, 2nd",0.0041,0.0021,0.0019,0.0021,0.0019,0.0019,0.0021,0.0019,0.0021,0.0019,0.0022
+The Mayor of Central Park,0.0081,0.005,0.0041,0.0029,0.0041,0.0041,0.0041,0.005,0.0029,0.0029,0.0043
+Diary of an Arctic Year,0.0141,0.0072,0.006,0.0069,0.0072,0.0069,0.0081,0.006,0.0069,0.0081,0.0077
+Don't Give It Away! : A Workbook of Self-Awareness and Self-Affirmations for Young Women,0.011,0.0072,0.0069,0.006,0.0062,0.006,0.01,0.006,0.0069,0.0072,0.0073
+One Day My Soul Just Opened Up: 40 Days and 40 Nights Toward Spiritual Strength and Personal Growth,0.011,0.005,0.0041,0.0041,0.005,0.0041,0.005,0.005,0.0038,0.0038,0.0051
+St. John's Wort,0.0029,0.0019,0.0019,0.0021,0.0019,0.0021,0.0019,0.0021,0.0019,0.0019,0.0021
+Long Road to Freedom: The Advocate History of the Gay and Lesbian Movement (Stonewall Inn Editions),0.0038,0.0021,0.0029,0.0021,0.0029,0.0021,0.0019,0.001,0.0021,0.001,0.0022
+"Escape Your Shape: How to Work Out Smarter, Not Harder",0.006,0.0029,0.0021,0.0019,0.0031,0.0019,0.0019,0.0029,0.0021,0.0029,0.0028
+Pony Express Christmas,0.006,0.0041,0.0038,0.0041,0.0031,0.0038,0.0031,0.0031,0.0029,0.0041,0.0038
+Christmas Decorations from Williamsburg's Folk Art Collection,0.0122,0.0069,0.0069,0.0062,0.0069,0.0069,0.0072,0.0069,0.0069,0.0072,0.0074
+A Crafter's Book of Angels,0.006,0.0031,0.0029,0.0031,0.0031,0.0029,0.0021,0.0019,0.0031,0.0031,0.0031
+Lockheed F-117A: Operation and Development of the Stealth Fighter,0.005,0.0029,0.0031,0.0031,0.0019,0.0031,0.0019,0.0031,0.0029,0.0031,0.003
+Here: A Biography of the New American Continent,0.0041,0.0019,0.0021,0.0019,0.0031,0.0019,0.0021,0.0019,0.0021,0.0019,0.0023
+Phonics (Step Ahead),0.0021,0.001,0.001,0.001,0.0012,0.001,0.001,0.001,0.0012,0.001,0.0012
+The World of Silent Flight,0.006,0.0041,0.0031,0.0029,0.0041,0.0031,0.0041,0.0038,0.0031,0.0031,0.0037
+Totline 1 2 3 Books ~ Simple Books To Make For Working With Young Children,0.015,0.0069,0.0069,0.0079,0.0069,0.0072,0.0079,0.0091,0.0079,0.0091,0.0085
+AShiiiapppp lamzu maya x,0.001,0,0.0012,0,0,0,0.001,0.001,0.0012,0.001,0.0006
+Mushoku Tensei,0.0041,0.0019,0.001,0.001,0.0019,0.0021,0.0019,0.0019,0.0021,0.0019,0.002
+Jujutsu kaisen,0.0031,0.001,0.0021,0.0019,0.0019,0.0021,0.001,0.0021,0.0019,0.0019,0.0019

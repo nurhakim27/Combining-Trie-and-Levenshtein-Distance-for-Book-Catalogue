@@ -1,0 +1,96 @@
+body{
+    font-family: 'Poppins', sans-serif;
+    font-weight: 500 ;
+}
+
+/* NAVBAR START */
+.padding-nav{
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+
+.navbar-text {
+  color: #303531 !important;
+  position: relative;
+  text-decoration: none;
+  padding-bottom: 4px;
+  transition: color 0.3s ease;
+}
+
+.navbar-text::after {
+  content: "";
+  position: absolute;
+  left: 0;
+  bottom: 0;
+  width: 0;
+  height: 2px;
+  background-color: #84171A;
+  transition: width 0.4s ease;
+}
+
+.navbar-text:hover {
+  color: #84171A !important;
+}
+
+.navbar-text:hover::after {
+  width: 100%;
+}
+
+/* NAVBAR END */
+
+/* DETAIL PRODUK START */
+.cover-img {
+  width: 100%;
+  height: auto;
+  background-color: #ccc;
+  aspect-ratio: 3/4;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 1.2rem;
+  color: #777;
+}
+
+.btn-akses {
+  background-color: #84171A;
+  color: white;
+  border: none;
+}
+
+
+table tr {
+  border-bottom: 1px solid #dee2e6; /* Warna abu tipis seperti Bootstrap */
+}
+table td {
+  border: none !important; /* Tetap tanpa border di cell */
+  padding: 0.75rem 0.5rem;  /* Biar lebih rapih juga */
+}
+
+
+
+/* DETAIL PRODUK END */
+
+
+
+/* FOOTER COPYRIGHT START */
+.footer-custom {
+  background-color: #84171A;
+}
+.footer-custom small {
+  font-size: 14px;
+}
+/* FOOTER COPYRIGHT END */
+
+
+
+/* Optional: Sticky footer dengan flex layout */
+html, body {
+  height: 100%;
+}
+body {
+  display: flex;
+  flex-direction: column;
+}
+footer {
+  margin-top: auto;
+}

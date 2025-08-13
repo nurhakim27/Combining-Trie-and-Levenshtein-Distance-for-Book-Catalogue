@@ -1,0 +1,105 @@
+body {
+ font-family: 'Poppins', sans-serif;
+ font-weight: 500;
+}
+
+/* NAVBAR START*/
+.padding-nav{
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+
+.navbar-text {
+  color: #303531 !important;
+  position: relative;
+  text-decoration: none;
+  padding-bottom: 4px;
+  transition: color 0.3s ease;
+}
+
+.navbar-text::after {
+  content: "";
+  position: absolute;
+  left: 0;
+  bottom: 0;
+  width: 0;
+  height: 2px;
+  background-color: #84171A;
+  transition: width 0.4s ease;
+}
+
+.navbar-text:hover {
+  color: #84171A !important;
+}
+
+.navbar-text:hover::after {
+  width: 100%;
+}
+/* NAVBAR END */
+
+
+/* CARD DASHBOARD START */
+.card {
+    background-color: #eee;
+    border: none;
+    border-radius: 12px;
+}
+
+/* Mengubah .image-placeholder menjadi .icon-placeholder dan styling untuk ikon */
+.icon-placeholder {
+    width: 100px; /* Sesuaikan ukuran container ikon */
+    height: 100px; /* Sesuaikan ukuran container ikon */
+    background-color: #ccc;
+    border-radius: 10px;
+    margin-right: 20px;
+    display: flex; /* Untuk memposisikan ikon di tengah */
+    justify-content: center; /* Horizontally center the icon */
+    align-items: center; /* Vertically center the icon */
+}
+
+.icon-placeholder i {
+    font-size: 3rem; /* Ukuran ikon yang lebih besar */
+    color: #333; /* Warna ikon */
+}
+
+.card-content {
+    display: flex;
+    align-items: center;
+    padding-left: 20px;
+
+}
+
+.card-body h5 {
+    margin-bottom: 5px;
+    font-weight: 600;
+}
+
+.card-body p {
+    margin-bottom: 10px;
+    color: #555;
+}
+/* CARD DASHBOARD END */
+
+
+/* FOOTER COPYRIGHT START */
+.footer-custom {
+  background-color: #84171A;
+}
+.footer-custom small {
+  font-size: 14px;
+}
+/* FOOTER COPYRIGHT END */
+
+
+
+/* Optional: Sticky footer dengan flex layout */
+html, body {
+  height: 100%;
+}
+body {
+  display: flex;
+  flex-direction: column;
+}
+footer {
+  margin-top: auto;
+}

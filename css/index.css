@@ -1,0 +1,425 @@
+body{
+    font-family: 'Poppins', sans-serif;
+    font-weight: 500 ;
+}
+
+/* NAVBAR START*/
+.padding-nav{
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+
+.navbar-text {
+  color: #303531 !important;
+  position: relative;
+  text-decoration: none;
+  padding-bottom: 4px;
+  transition: color 0.3s ease;
+}
+
+.navbar-text::after {
+  content: "";
+  position: absolute;
+  left: 0;
+  bottom: 0;
+  width: 0;
+  height: 2px;
+  background-color: #84171A;
+  transition: width 0.4s ease;
+}
+
+.navbar-text:hover {
+  color: #84171A !important;
+}
+
+.navbar-text:hover::after {
+  width: 100%;
+}
+/* NAVBAR END */
+
+
+
+/* SECTION JUMBOTRON START */ 
+.jumbotron-section {
+    position: relative;
+    background-image: url('../image/hero-image.jpg'); /* Ganti dengan path gambarmu */
+    background-size: cover;
+    background-position: center;
+    height: 90vh;
+    color: white;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+  .jumbotron-overlay {
+    position: absolute;
+    top: 0;
+    left: 0;
+    height: 100%;
+    width: 100%;
+    background-color: rgba(0, 0, 0, 0.7);
+    z-index: 1;
+  }
+
+.jumbotron-content {
+    position: relative;
+    z-index: 2;
+    text-align: center;
+    max-width: 1200px;
+    padding: 20px;
+}
+
+.jumbotron-content h1 {
+    font-weight: 800;
+}
+
+/* TIDAK PAKAI MEDIA QUERY */
+/* @media (max-width: 768px) {
+  .line-pertama {
+    font-size: 16px;
+    margin-top: 50px;
+  }
+
+  .line-kedua {
+    font-size: 36px;
+  }
+
+  .line-ketiga {
+    font-size: 16px;
+    line-height: 1.5;
+  }
+}
+
+@media (max-width: 576px) {
+  .line-kedua {
+    font-size: 28px;
+  }
+  .line-ketiga {
+    font-size: 14px;
+  }
+} */
+
+.btn-orange {
+    background-color: #f97f2f;
+    border: none;
+    color: #303531;
+    padding: 15px;
+}
+
+.btn-orange:hover {
+    background-color: #e16d1e;
+}
+
+/* SECTION JUMBOTRON END */
+
+
+/* SECTION ABOUT START */
+.about-section {
+    background-color: #fff;
+    margin-top: 50px;
+    margin-bottom: 50px;
+
+
+    
+}
+
+.selamat-datang{
+    font-size: 40px;
+}
+
+.about-section p {
+    font-size: 18px;
+    font-weight: 300;
+    line-height: 1.6;
+    color: #333;
+}
+
+.about-section h2 {
+    color: #000;
+}
+
+.about-section .btn-warning {
+    background-color: #F7941E;
+    border: none;
+    transition: 0.3s;
+    padding: 15px;
+
+}
+
+.about-section .btn-warning:hover {
+    background-color: #d97b0f;
+}
+
+.custom-container {
+    max-width: 1500px;
+    margin: 0 auto;
+    padding: 0 2rem; /* tambahkan padding agar tidak terlalu nempel ke pinggir */
+}
+
+.about-image-custom {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.about-image-custom img {
+    width: 90%; /* lebih besar dari sebelumnya */
+    max-width: 500px; /* agar tetap proporsional di layar besar */
+    aspect-ratio: 1 / 1;
+    object-fit: cover;
+    border-radius: 10px;
+}
+
+/* SECTION ABOUT END */
+
+
+/* SECTION WHY US START */
+.section-why-us {
+    background-color: #84171A;
+   
+
+
+}
+
+.why-us-jarakAtasBawah{
+    padding-top: 80px;
+    padding-bottom: 60px;
+}
+
+
+
+.section-why-us h2,
+.section-why-us p,
+.section-why-us small,
+.section-why-us h5 {
+    color: #fff;
+}
+
+.why-us-line-pertama{
+    font-size: 16px;
+}
+
+.why-us-line-kedua{
+    font-size: 54px;
+    text-shadow: 2px 2px 4px #303531;
+}
+
+.judul-why-us{
+    font-size: 28px;
+    text-shadow: 2px 2px 4px #303531;
+
+}
+
+.deskripsi-why-us{
+    font-size: 16px;
+}
+
+.section-why-us .icon-box {
+    padding: 5px;
+
+}
+
+.section-why-us i {
+    color: #ffffff; /* icon color */
+    
+}
+
+.why-us-mb-icon {
+    display: block;
+    margin-bottom: -5px !important;
+}
+
+
+/* SECTION WHY US END */
+
+
+/* SECTION LAYANAN START */
+.section-layanan {
+    background-color: #f9f9f9;
+}
+
+.section-layanan-jarakAtasBawah{
+    padding-top: 80px;
+    padding-bottom: 60px;
+}
+
+.bg-maroon {
+    background-color: #84171A;
+}
+
+.jenis-layanan-title {
+    font-size: 36px;
+}
+
+.layanan-box {
+    padding: 20px;
+    margin-bottom: 20px;
+    background-color: #ffffff;
+    border-radius: 10px;
+    box-shadow: 0 2px 6px rgba(0,0,0,0.1);
+    text-align: left;
+}
+
+.icon-layanan {
+    font-size: 32px;
+    color: #84171A;
+    margin-bottom: 10px;
+    display: block;
+}
+
+.bg-maroon {
+    background-color: #84171A;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+    padding: 100px;
+}
+
+/* SECTION LAYANAN END */
+
+
+/* SECTION PENGALAMAN KERJASAMA START */
+.section-pengalaman{
+    background-color: #84171A;
+
+}
+
+.section-pengalaman-jarakAtasBawah{
+    padding-top: 80px;
+    padding-bottom: 60px;
+}
+
+.pengalaman-line-pertama{
+    font-size: 16px;
+}
+
+.pengalaman-line-kedua{
+    font-size: 54px ;
+    text-shadow: 2px 2px 4px #303531;
+}
+
+.stat-box {
+    position: relative;
+}
+
+.stat-box::before {
+    content: "";
+    position: absolute;
+    top: 0;
+    left: 50%;
+    transform: translateX(-50%);
+    width: 60px;
+    height: 4px;
+    background-color: #FFA726; 
+    border-radius: 2px;
+}
+
+.stat-angka {
+    font-size: 120px;
+    font-weight: 800;
+}
+
+.stat-label {
+    font-size: 22px;
+    font-weight: 600;
+}
+
+/* SECTION PENGALAMAN KERJASASMA END */
+
+
+
+/* SECTION KONTAK START */
+
+.section-kontak-jarakAtasBawah{
+    padding-top: 80px;
+    padding-bottom: 60px;
+}
+
+.section-kontak {
+  background-color: #f9f9f9;
+  
+}
+
+.kontak-text{
+    color: #303531;
+}
+
+.judul-kontak{
+    font-size: 72px ;
+}
+
+.deskripsi-kontak{
+    font-size: 24px ;
+}
+.section-kontak .fw-bold {
+  font-size: 20px;
+}
+
+.section-kontak p {
+  font-size: 16px;
+}
+
+.map-responsive iframe {
+  width: 100%;
+  height: 100%;
+  border-radius: 12px;
+}
+
+.map-responsive {
+  overflow: hidden;
+  padding-bottom: 56.25%;
+  position: relative;
+  height: 0;
+}
+
+.map-responsive iframe {
+  position: absolute;
+  top: 0;
+  left: 0;
+  height: 100%;
+}
+
+.map-box {
+  width: 100%;
+  max-width: 500px;
+  aspect-ratio: 1 / 1; /* Membuatnya kotak */
+  position: relative;
+  border-radius: 12px;
+  overflow: hidden;
+  margin: auto;
+}
+
+.map-box iframe {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  border: 0;
+  border-radius: 12px;
+}
+
+
+.kontak-icon{
+    color: #84171A !important;
+    transition: 0.5s;
+}
+
+.kontak-icon:hover{
+    color: #ce6c1b !important;
+}
+
+
+/* SECTION KONTAK END */
+
+/* FOOTER COPYRIGHT START */
+.footer-custom {
+    background-color: #84171A;
+}
+.footer-custom small {
+    font-size: 14px;
+}
+
+/* FOOTER COPYRIGHT END */

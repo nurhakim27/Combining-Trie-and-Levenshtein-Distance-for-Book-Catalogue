@@ -1,0 +1,64 @@
+body{
+    font-family: 'Poppins', sans-serif;
+    font-weight: 500 ;
+}
+
+/* NAVBAR START */
+.padding-nav{
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+
+.navbar-text {
+  color: #303531 !important;
+  position: relative;
+  text-decoration: none;
+  padding-bottom: 4px;
+  transition: color 0.3s ease;
+}
+
+.navbar-text::after {
+  content: "";
+  position: absolute;
+  left: 0;
+  bottom: 0;
+  width: 0;
+  height: 2px;
+  background-color: #84171A;
+  transition: width 0.4s ease;
+}
+
+.navbar-text:hover {
+  color: #84171A !important;
+}
+
+.navbar-text:hover::after {
+  width: 100%;
+}
+
+/* NAVBAR END */
+
+
+
+/* FOOTER COPYRIGHT START */
+.footer-custom {
+  background-color: #84171A;
+}
+.footer-custom small {
+  font-size: 14px;
+}
+/* FOOTER COPYRIGHT END */
+
+
+
+/* Optional: Sticky footer dengan flex layout */
+html, body {
+  height: 100%;
+}
+body {
+  display: flex;
+  flex-direction: column;
+}
+footer {
+  margin-top: auto;
+}

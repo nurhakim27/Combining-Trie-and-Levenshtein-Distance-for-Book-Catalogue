@@ -1,0 +1,89 @@
+/* SECTION KONTAK START */
+.custom-container {
+    max-width: 1500px;
+    margin: 0 auto;
+    padding: 0 2rem; /* tambahkan padding agar tidak terlalu nempel ke pinggir */
+}
+
+.section-kontak-jarakAtasBawah{
+    padding-top: 60px;
+    padding-bottom: 60px;
+}
+
+.section-kontak {
+  background-color: #f9f9f9;
+  
+}
+
+.kontak-text{
+    color: #303531;
+}
+
+.judul-kontak{
+    font-size: 72px ;
+}
+
+.deskripsi-kontak{
+    font-size: 24px ;
+}
+.section-kontak .fw-bold {
+  font-size: 20px;
+}
+
+.section-kontak p {
+  font-size: 16px;
+}
+
+.map-responsive iframe {
+  width: 100%;
+  height: 100%;
+  border-radius: 12px;
+}
+
+.map-responsive {
+  overflow: hidden;
+  padding-bottom: 56.25%;
+  position: relative;
+  height: 0;
+}
+
+.map-responsive iframe {
+  position: absolute;
+  top: 0;
+  left: 0;
+  height: 100%;
+}
+
+.map-box {
+  width: 100%;
+  max-width: 500px;
+  aspect-ratio: 1 / 1; /* Membuatnya kotak */
+  position: relative;
+  border-radius: 12px;
+  overflow: hidden;
+  margin: auto;
+}
+
+.map-box iframe {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  border: 0;
+  border-radius: 12px;
+}
+
+
+.kontak-icon{
+    color: #84171A !important;
+    transition: 0.5s;
+}
+
+.kontak-icon:hover{
+    color: #ce6c1b !important;
+}
+
+
+
+/* SECTION KONTAK END */

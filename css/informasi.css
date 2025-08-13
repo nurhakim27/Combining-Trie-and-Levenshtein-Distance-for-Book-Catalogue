@@ -1,0 +1,210 @@
+body{
+    font-family: 'Poppins', sans-serif;
+    font-weight: 500 ;
+}
+
+/* NAVBAR START */
+.padding-nav{
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+
+.navbar-text {
+  color: #303531 !important;
+  position: relative;
+  text-decoration: none;
+  padding-bottom: 4px;
+  transition: color 0.3s ease;
+}
+
+.navbar-text::after {
+  content: "";
+  position: absolute;
+  left: 0;
+  bottom: 0;
+  width: 0;
+  height: 2px;
+  background-color: #84171A;
+  transition: width 0.4s ease;
+}
+
+.navbar-text:hover {
+  color: #84171A !important;
+}
+
+.navbar-text:hover::after {
+  width: 100%;
+}
+
+/* NAVBAR END */
+
+
+/* SECTION JUMBOTRON START */ 
+.jumbotron-section {
+    position: relative;
+    background-image: url('../image/hero-information.jpg');
+ /* Ganti dengan path gambarmu */
+    background-size: cover;
+    background-position: center;
+    height: 45vh;
+    color: white;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+  .jumbotron-overlay {
+    position: absolute;
+    top: 0;
+    left: 0;
+    height: 100%;
+    width: 100%;
+    background-color: rgba(0, 0, 0, 0.7);
+    z-index: 1;
+  }
+
+.jumbotron-content {
+    position: relative;
+    z-index: 2;
+    text-align: center;
+    max-width: 1200px;
+    padding: 20px;
+}
+
+.jumbotron-content h1 {
+  font-weight: 800;
+}
+
+/* MEDIA QUERY TIDAK DIPAKAI */
+/* @media (max-width: 1080px) {
+  .line-pertama {
+    font-size: 16px;
+    margin-top: 30px;
+  }
+
+  .line-kedua {
+    font-size: 36px;
+  }
+
+  .line-ketiga {
+    font-size: 16px;
+    line-height: 1.5;
+  }
+}
+
+@media (max-width: 576px) {
+  .line-kedua {
+    font-size: 28px;
+  }
+  .line-ketiga {
+    font-size: 14px;
+  }
+} */
+
+.btn-orange {
+    background-color: #f97f2f;
+    border: none;
+    color: #303531;
+    padding: 15px;
+}
+
+.btn-orange:hover {
+    background-color: #e16d1e;
+}
+
+/* SECTION JUMBOTRON END */
+
+/* SECTION INFORMASI START */
+.card-body h6 {
+  font-weight: 600;
+  margin-top: 0.5rem;
+  margin-bottom: 0.25rem;
+}
+
+.card .ratio {
+  background-color: #eee;
+  border-radius: 0.5rem 0.5rem 0 0;
+}
+.kategori-first{
+  color: #303531 !important;
+}
+
+.accordion-button:not(.collapsed).kategori-first {
+  background-color: #eeeeee; /* setelah dropdown list, akan berubah warna "Pilih Kategori" nya*/
+  color: #303531;
+}
+
+.accordion-button.kategori-first {
+  transition: background-color 0.3s ease;
+}
+
+.kategori-link {
+  color: #303531;
+  text-decoration: none;
+}
+.kategori-link:hover {
+  color: #303531;
+  background-color: #f0f0f0;
+  border-radius: 4px;
+}
+
+.card small.text-muted {
+  background-color: #FFA5001A; /* Orange transparan */
+  color: #FF8C00; /* Warna teks oranye gelap */
+  padding: 4px 8px;
+  border-radius: 4px;
+  font-weight: 500;
+  display: inline-block;
+  margin-top: 10px;
+}
+
+.link-judul-berita{
+  text-decoration: none !important;
+  color: #303531 !important;
+}
+
+.link-judul-berita:hover{
+  color: #84171A !important;
+}
+/* SECTION INFORMASI END */
+
+/* PAGINATION START */
+/* Warna untuk item pagination */
+.pagination .page-link {
+    color: #84171A; /* Warna teks Bootstrap 'danger' */
+}
+
+/* Warna untuk item pagination saat di-hover/focus */
+.pagination .page-link:hover,
+.pagination .page-link:focus {
+    color: #b02a37; /* Warna teks sedikit lebih gelap saat hover/focus */
+    background-color: #f8d7da; /* Background terang warna 'danger' */
+    border-color: #f5c6cb; /* Border warna 'danger' */
+}
+
+/* Warna untuk item pagination yang aktif */
+.pagination .page-item.active .page-link {
+    background-color: #dc3545; /* Background warna Bootstrap 'danger' */
+    border-color: #dc3545;     /* Border warna Bootstrap 'danger' */
+    color: #fff;              /* Teks putih */
+}
+
+/* Warna untuk item pagination yang dinonaktifkan (opsional, jika ada) */
+.pagination .page-item.disabled .page-link {
+    color: #6c757d; /* Warna abu-abu normal */
+    pointer-events: none;
+    background-color: #fff;
+    border-color: #dee2e6;
+}
+/* PAGINATION END */
+
+
+/* FOOTER COPYRIGHT START */
+.footer-custom {
+    background-color: #84171A;
+}
+.footer-custom small {
+    font-size: 14px;
+}
+
+/* FOOTER COPYRIGHT END */

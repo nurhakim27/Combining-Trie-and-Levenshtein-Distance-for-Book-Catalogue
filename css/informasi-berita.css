@@ -1,0 +1,118 @@
+body{
+    font-family: 'Poppins', sans-serif;
+    font-weight: 500 ;
+}
+
+/* NAVBAR START */
+.padding-nav{
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+
+.navbar-text {
+  color: #303531 !important;
+  position: relative;
+  text-decoration: none;
+  padding-bottom: 4px;
+  transition: color 0.3s ease;
+}
+
+.navbar-text::after {
+  content: "";
+  position: absolute;
+  left: 0;
+  bottom: 0;
+  width: 0;
+  height: 2px;
+  background-color: #84171A;
+  transition: width 0.4s ease;
+}
+
+.navbar-text:hover {
+  color: #84171A !important;
+}
+
+.navbar-text:hover::after {
+  width: 100%;
+}
+
+/* NAVBAR END */
+
+/* BREADCUMB START */
+.no-decor{
+    text-decoration: none;
+    color: #84171A;
+}
+.no-decor:hover{
+    text-decoration: none;
+    color: #84171A;
+}
+/* BREADCUMB END */
+
+
+/* FORM INPUT DATA START */
+form div{
+    margin-bottom: 15px;
+}
+form label{
+    margin-bottom: 5px;
+}
+
+
+/* FORM INPUT DATA END */
+
+
+/* PAGINATION START */
+/* Warna untuk item pagination */
+.pagination .page-link {
+    color: #84171A; /* Warna teks Bootstrap 'danger' */
+}
+
+/* Warna untuk item pagination saat di-hover/focus */
+.pagination .page-link:hover,
+.pagination .page-link:focus {
+    color: #b02a37; /* Warna teks sedikit lebih gelap saat hover/focus */
+    background-color: #f8d7da; /* Background terang warna 'danger' */
+    border-color: #f5c6cb; /* Border warna 'danger' */
+}
+
+/* Warna untuk item pagination yang aktif */
+.pagination .page-item.active .page-link {
+    background-color: #dc3545; /* Background warna Bootstrap 'danger' */
+    border-color: #dc3545;     /* Border warna Bootstrap 'danger' */
+    color: #fff;              /* Teks putih */
+}
+
+/* Warna untuk item pagination yang dinonaktifkan (opsional, jika ada) */
+.pagination .page-item.disabled .page-link {
+    color: #6c757d; /* Warna abu-abu normal */
+    pointer-events: none;
+    background-color: #fff;
+    border-color: #dee2e6;
+}
+/* PAGINATION END */
+
+
+
+/* FOOTER COPYRIGHT START */
+.footer-custom {
+  background-color: #84171A;
+}
+.footer-custom small {
+  font-size: 14px;
+}
+/* FOOTER COPYRIGHT END */
+
+
+
+/* Optional: Sticky footer dengan flex layout */
+html, body {
+  height: 100%;
+}
+body {
+  display: flex;
+  flex-direction: column;
+}
+footer {
+  margin-top: auto;
+}
